@@ -328,6 +328,12 @@ Ans- The allow_screenshot parameter controls whether users are allowed to take s
 
 (----------------------------------------------------------------------)
 
+54- What is the role of interpretation in Gradio?
+
+Ans- Interpretation helps users understand which parts of the input contribute to the model’s output, adding transparency to machine learning models.
+
+(----------------------------------------------------------------------)
+
 
 
 
