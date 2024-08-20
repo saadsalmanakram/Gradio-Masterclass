@@ -352,5 +352,11 @@ Ans- You implement interpretation by adding the interpretation="default" paramet
 
 (----------------------------------------------------------------------)
 
+58- What is Shapley-based interpretation, and how can it be used in Gradio?
+
+Ans- Shapley-based interpretation is a method to explain predictions by calculating the contribution of each input feature; in Gradio, it can be used by setting interpretation="shap" and specifying the num_shap parameter.
+
+(----------------------------------------------------------------------)
+
 
 
