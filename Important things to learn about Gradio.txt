@@ -124,7 +124,29 @@ Ans- You can create an interface by passing the predict function to the fn param
 
 (----------------------------------------------------------------------)
 
+20- What happens when you run the launch() method in a Jupyter notebook?
 
+Ans- The Gradio interface appears directly in the notebook.
+
+(----------------------------------------------------------------------)
+
+21- How do you access the Gradio interface in a browser when running from a script?
+
+Ans- The Gradio interface will pop up in a browser at http://localhost:7860 by default.
+
+(----------------------------------------------------------------------)
+
+22- Can Gradio interfaces be customized for different environments?
+
+Ans- Yes, the launch() method can be customized with parameters like inline, inbrowser, and share.
+
+(----------------------------------------------------------------------)
+
+23- Why is it important to build a demo or GUI for a machine learning model?
+
+Ans- Demos allow developers to present their work to a wider audience, enable researchers to reproduce models, assist testers in debugging, and help users discover biases.
+
+(----------------------------------------------------------------------)
 
 
 
