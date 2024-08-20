@@ -370,5 +370,11 @@ Ans- Interpretation increases transparency by helping users understand how input
 
 (----------------------------------------------------------------------)
 
+70- What does the num_top_classes parameter control in a Gradio label component?
+
+Ans- The `num_top_classes` parameter specifies how many of the top predicted classes to display in the output.
+
+(----------------------------------------------------------------------)
+
 
 
