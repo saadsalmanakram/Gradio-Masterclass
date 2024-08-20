@@ -160,6 +160,12 @@ Ans- Demos help testers and end users to identify and debug failure points in mo
 
 (----------------------------------------------------------------------)
 
+26- How can demos assist in discovering algorithmic biases?
+
+Ans- Demos allow diverse users to interact with models, which can reveal potential algorithmic biases.
+
+(----------------------------------------------------------------------)
+
 
 
 
