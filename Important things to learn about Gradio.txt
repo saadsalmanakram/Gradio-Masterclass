@@ -76,6 +76,12 @@ Ans- Yes, you can mix input sources like microphone and file upload by using mul
 
 (----------------------------------------------------------------------)
 
+14- What is the use of the optional=True parameter in Gradio inputs?
+
+Ans- It allows the user to skip that particular input, making it optional.
+
+(----------------------------------------------------------------------)
+
 
 
 
