@@ -322,6 +322,12 @@ Ans- You can pass a default value to the state parameter, which will be used as 
 
 (----------------------------------------------------------------------)
 
+53- What does the allow_screenshot parameter do in the Gradio interface?
+
+Ans- The allow_screenshot parameter controls whether users are allowed to take screenshots of the interface.
+
+(----------------------------------------------------------------------)
+
 
 
 
