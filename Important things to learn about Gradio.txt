@@ -340,5 +340,11 @@ Ans- You can enable interpretation by setting the interpretation keyword in the 
 
 (----------------------------------------------------------------------)
 
+56- What does the interpretation="default" setting do in a Gradio interface?
+
+Ans- The "default" interpretation setting provides basic input attribution, showing which parts of the input are most responsible for the output.
+
+(----------------------------------------------------------------------)
+
 
 
