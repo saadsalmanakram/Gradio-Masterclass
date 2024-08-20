@@ -46,6 +46,12 @@ Ans- It allows the input data to be passed as a tuple containing the sample rate
 
 (-----------------------------------------------------------------------)
 
+9- How do you handle optional inputs in a Gradio Interface?
+
+Ans- Optional inputs can be handled by setting the optional=True parameter in the input component definition.
+
+(----------------------------------------------------------------------)
+
 
 
 
