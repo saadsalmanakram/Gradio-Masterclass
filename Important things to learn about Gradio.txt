@@ -250,6 +250,12 @@ Ans- It specifies the path to the GPT-J-6B model on the Hugging Face Hub, allowi
 
 (-----------------------------------------------------------------------)
 
+41- How can you load a demo from Hugging Face Spaces using Gradio?
+
+Ans- You can load a demo by using gr.Interface.load() with "spaces/" followed by the name of the Space.
+
+(-----------------------------------------------------------------------)
+
 
 
 
