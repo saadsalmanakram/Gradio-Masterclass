@@ -472,6 +472,12 @@ Ans- The flip_text() function is triggered, reversing the text and updating the 
 
 (--------------------------------------------------------------------)
 
+86- How can you create a custom layout using Blocks in Gradio?
+
+Ans- You can customize the layout using gr.Row(), gr.Column(), and gr.Tabs() to organize components horizontally, vertically, or into tabs.
+
+(--------------------------------------------------------------------)
+
 
 
 
