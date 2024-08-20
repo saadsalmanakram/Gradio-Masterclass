@@ -240,7 +240,7 @@ Ans- You can load a model using the Interface.load() method by specifying "huggi
 
 39- 3. What is the advantage of loading models via the Hugging Face Inference API in Gradio?
 
-Ans- Loading models via the Inference API is ideal for large models, as it avoids the need to load them into memory, saving computational resources.
+Ans- Loading models via the Inference API is ideal for large models, as it avoids the need to load them into memory, saving computational resources(reduces memory usage and computational overhead).
 
 (----------------------------------------------------------------------)
 
