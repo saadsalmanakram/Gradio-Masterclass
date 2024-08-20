@@ -334,6 +334,11 @@ Ans- Interpretation helps users understand which parts of the input contribute t
 
 (----------------------------------------------------------------------)
 
+55- How can you enable interpretation for a model in Gradio?
+
+Ans- You can enable interpretation by setting the interpretation keyword in the Interface class to "default".
+
+(----------------------------------------------------------------------)
 
 
 
