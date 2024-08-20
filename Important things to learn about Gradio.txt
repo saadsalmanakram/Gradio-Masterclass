@@ -394,5 +394,23 @@ Ans- Gradio provides a feature called "blocks" which allows splitting an interfa
 
 (----------------------------------------------------------------------)
 
+74- Why would you want to use the allow_flagging parameter in a Gradio interface?
+
+Ans- The allow_flagging parameter controls whether users can flag problematic outputs, which is useful for gathering feedback on model performance.
+
+(----------------------------------------------------------------------)
+
+75- What is the significance of the interpretation parameter in understanding model predictions?
+
+Ans- The interpretation parameter allows users to visualize the influence of different input features on the model's predictions, fostering greater model interpretability.
+
+(----------------------------------------------------------------------)
+
+76- What is a practical example of using state in a Gradio interface?
+
+Ans- A practical example of using state is maintaining a conversation history in a chatbot, where each new message and response pair is added to the ongoing dialogue.
+
+(----------------------------------------------------------------------)
+
 
 
