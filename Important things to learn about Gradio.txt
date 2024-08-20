@@ -256,6 +256,12 @@ Ans- You can load a demo by using gr.Interface.load() with "spaces/" followed by
 
 (-----------------------------------------------------------------------)
 
+42- What is the purpose of overriding parameters when loading a demo from the Hugging Face Hub or Spaces?
+
+Ans- Overriding parameters allows customization of the demo, such as changing the input type or adding titles.
+
+(-----------------------------------------------------------------------)
+
 
 
 
