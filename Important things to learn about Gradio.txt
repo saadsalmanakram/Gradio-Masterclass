@@ -64,6 +64,12 @@ Ans- The share parameter creates a publicly shareable link for the interface.
 
 (----------------------------------------------------------------------)
 
+12- How does Gradio handle multiple outputs in an Interface?
+
+Ans- Multiple outputs are handled by passing a list of output components, each corresponding to a return value from the function.
+
+(----------------------------------------------------------------------)
+
 
 
 
