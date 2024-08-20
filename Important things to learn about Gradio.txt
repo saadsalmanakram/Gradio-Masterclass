@@ -34,3 +34,15 @@ Ans- The launch() method starts the Gradio interface, either embedding it in a n
 
 (------------------------------------------------------------------------)
 
+7- How can you customize the behavior of the launch() method in Gradio?
+
+Ans- You can customize it using parameters like inline, inbrowser, and share.
+
+(------------------------------------------------------------------------)
+
+
+
+
+
+
+
