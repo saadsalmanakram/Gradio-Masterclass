@@ -454,6 +454,12 @@ Ans- The `with` statement is used to instantiate and organize components within 
 
 (--------------------------------------------------------------------)
 
+83- Why does the order of component instantiation matter in Blocks?
+
+Ans- Components are rendered in the order they are created, directly impacting the layout of the web application.
+
+(--------------------------------------------------------------------)
+
 
 
 
