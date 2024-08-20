@@ -82,6 +82,12 @@ Ans- It allows the user to skip that particular input, making it optional.
 
 (----------------------------------------------------------------------)
 
+15- How do you use the Gradio Interface to demo a speech-recognition model?
+
+Ans- By creating an interface with Audio inputs (mic and file) and a text output, wrapped around a function that uses a speech-recognition model like the one from Hugging Face's Transformers.
+
+(----------------------------------------------------------------------)
+
 
 
 
