@@ -358,5 +358,11 @@ Ans- Shapley-based interpretation is a method to explain predictions by calculat
 
 (----------------------------------------------------------------------)
 
+59- Can you use a custom interpretation function in Gradio?
+
+Ans- Yes, you can pass your own interpretation function into the interpretation parameter of the Interface class.
+
+(----------------------------------------------------------------------)
+
 
 
