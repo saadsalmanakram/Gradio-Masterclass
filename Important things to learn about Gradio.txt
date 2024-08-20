@@ -58,6 +58,12 @@ Ans- By defining an Audio input and output component, and using a function that 
 
 (----------------------------------------------------------------------)
 
+11- What does the share parameter in the launch() method do?
+
+Ans- The share parameter creates a publicly shareable link for the interface.
+
+(----------------------------------------------------------------------)
+
 
 
 
