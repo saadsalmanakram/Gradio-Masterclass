@@ -166,6 +166,11 @@ Ans- Demos allow diverse users to interact with models, which can reveal potenti
 
 (----------------------------------------------------------------------)
 
+27- What are some types of demos you can build with Gradio?
+
+Ans- Examples include sketch recognition, extractive question answering, and background removal models.
+
+(----------------------------------------------------------------------)
 
 
 
