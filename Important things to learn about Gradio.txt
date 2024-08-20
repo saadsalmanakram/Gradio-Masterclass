@@ -502,6 +502,12 @@ Ans- A component becomes interactive based on the event triggers assigned to it,
 
 (--------------------------------------------------------------------)
 
+91- Can the same component be used as both input and output in Blocks?
+
+Ans- Yes, a component can serve as both input and output, allowing for operations like text completion in a single component.
+
+(--------------------------------------------------------------------)
+
 
 
 
