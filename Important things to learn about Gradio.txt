@@ -16,3 +16,9 @@ Ans- Input components are defined using pre-built Gradio components like "image"
 
 (------------------------------------------------------------------------)
 
+4- What does the fn parameter in the Interface class represent?
+
+Ans- The fn parameter represents the function that will process the inputs and generate outputs.
+
+(------------------------------------------------------------------------)
+
