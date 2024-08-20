@@ -70,6 +70,12 @@ Ans- Multiple outputs are handled by passing a list of output components, each c
 
 (----------------------------------------------------------------------)
 
+13- Can you mix different input sources like microphone and file upload in a single Gradio Interface?
+
+Ans- Yes, you can mix input sources like microphone and file upload by using multiple Audio components with different source parameters.
+
+(----------------------------------------------------------------------)
+
 
 
 
