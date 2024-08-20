@@ -28,3 +28,9 @@ Ans- Multiple inputs are handled by passing a list of input components, each cor
 
 (------------------------------------------------------------------------)
 
+6- What is the role of the launch() method in Gradio?
+
+Ans- The launch() method starts the Gradio interface, either embedding it in a notebook or running it on a local web server.
+
+(------------------------------------------------------------------------)
+
