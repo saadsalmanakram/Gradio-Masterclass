@@ -496,6 +496,12 @@ Ans- The three parameters are fn (the function to run), inputs (the input compon
 
 (--------------------------------------------------------------------)
 
+90- How do you make a component interactive in Blocks?
+
+Ans- A component becomes interactive based on the event triggers assigned to it, or manually by setting the interactive parameter.
+
+(--------------------------------------------------------------------)
+
 
 
 
