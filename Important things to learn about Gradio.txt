@@ -304,6 +304,18 @@ Ans- You implement session state by adding an extra state parameter to your func
 
 (-----------------------------------------------------------------------)
 
+50- Can session state in Gradio be shared between different users?
+
+Ans- No, session state in Gradio is user-specific and does not share data between different users.
+
+(----------------------------------------------------------------------)
+
+51- Why would you want to use session state in a chatbot application?
+
+Ans- Session state is used in chatbots to maintain the conversation history as the user interacts with the bot.
+
+(----------------------------------------------------------------------)
+
 
 
 
