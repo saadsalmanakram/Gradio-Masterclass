@@ -460,6 +460,12 @@ Ans- Components are rendered in the order they are created, directly impacting t
 
 (--------------------------------------------------------------------)
 
+84- How do you assign an event to a component in Gradio's Blocks?
+
+Ans- Events are assigned by calling the event method (e.g., change, click) on a component and specifying the function to execute along with the inputs and outputs.
+
+(--------------------------------------------------------------------)
+
 
 
 
