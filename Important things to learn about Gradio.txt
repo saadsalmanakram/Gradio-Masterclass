@@ -490,6 +490,12 @@ Ans- Tabs can be created using the gr.Tabs() context manager, with each tab defi
 
 (--------------------------------------------------------------------)
 
+89- What are the three parameters needed when creating an event trigger in Blocks?
+
+Ans- The three parameters are fn (the function to run), inputs (the input components), and outputs (the output components).
+
+(--------------------------------------------------------------------)
+
 
 
 
