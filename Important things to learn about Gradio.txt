@@ -280,6 +280,11 @@ Ans- Yes, you can modify a demo by overriding parameters in the Interface.load()
 
 (-----------------------------------------------------------------------)
 
+46- What happens if you specify "model/" instead of "huggingface/" in the Interface.load() method?
+
+Ans- Both "model/" and "huggingface/" can be used interchangeably to load models from the Hugging Face Hub.
+
+(-----------------------------------------------------------------------)
 
 
 
