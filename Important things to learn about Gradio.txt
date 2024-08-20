@@ -1,3 +1,9 @@
+What is Gradio?
+
+Ans- Gradio is a Python library that allows you to quickly create user interfaces for machine learning models or any other Python function.
+
+(------------------------------------------------------------------------)
+
 1- What is the purpose of the Interface class in Gradio?
 
 Ans- The Interface class is used to create a user-friendly interface that wraps around a prediction function, allowing users to interact with machine learning models easily.
