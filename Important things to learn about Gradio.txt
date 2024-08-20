@@ -184,5 +184,11 @@ Ans- By setting share=True in the launch() method, which generates a public, sha
 
 (----------------------------------------------------------------------)
 
+30- What should you consider when sharing a demo via a temporary link?
+
+Ans- The link is publicly accessible, so avoid exposing sensitive information or allowing critical changes on your device.
+
+(----------------------------------------------------------------------)
+
 
 
