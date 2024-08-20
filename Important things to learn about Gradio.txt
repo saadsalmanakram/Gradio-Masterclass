@@ -226,6 +226,12 @@ Ans- It provides the infrastructure to permanently host your Gradio model on the
 
 (----------------------------------------------------------------------)
 
+37- How do you host a Gradio demo on Hugging Face Spaces?
+
+Ans- By creating and pushing to a repository where your Gradio interface code will exist in an app.py file.
+
+(----------------------------------------------------------------------)
+
 
 
 
