@@ -106,6 +106,12 @@ Ans- Gradio automatically infers the label from the input parameter name, but yo
 
 (----------------------------------------------------------------------)
 
+17- What is the use of the pipeline function in the Gradio context?
+
+Ans- The `pipeline` function from the 🤗 Transformers library is used to load machine learning models, such as text generation models, for use in Gradio interfaces.
+
+(----------------------------------------------------------------------)
+
 
 
 
