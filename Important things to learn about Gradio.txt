@@ -478,6 +478,12 @@ Ans- You can customize the layout using gr.Row(), gr.Column(), and gr.Tabs() to 
 
 (--------------------------------------------------------------------)
 
+87- What layout does Blocks render components in by default?
+
+Ans- By default, Blocks render components vertically in one column.
+
+(--------------------------------------------------------------------)
+
 
 
 
