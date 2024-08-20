@@ -190,5 +190,11 @@ Ans- The link is publicly accessible, so avoid exposing sensitive information or
 
 (----------------------------------------------------------------------)
 
+31- How long is the temporary Gradio share link active?
+
+Ans- The link remains active for up to 72 hours.
+
+(----------------------------------------------------------------------)
+
 
 
