@@ -436,4 +436,10 @@ Ans- The Interface API is used to quickly create full machine learning demos by 
 
 (--------------------------------------------------------------------)
 
+80- What is Gradio's Blocks API designed for?
+
+Ans- The Blocks API is designed to provide full control over the layout and data flows in complex, multi-step applications.
+
+(--------------------------------------------------------------------)
+
 
