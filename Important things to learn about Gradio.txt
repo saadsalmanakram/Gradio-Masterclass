@@ -364,5 +364,11 @@ Ans- Yes, you can pass your own interpretation function into the interpretation 
 
 (----------------------------------------------------------------------)
 
+60- What is the benefit of using interpretation in machine learning models?
+
+Ans- Interpretation increases transparency by helping users understand how input data influences model predictions.
+
+(----------------------------------------------------------------------)
+
 
 
