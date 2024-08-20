@@ -484,6 +484,12 @@ Ans- By default, Blocks render components vertically in one column.
 
 (--------------------------------------------------------------------)
 
+88- How can you create tabs in a Gradio Blocks demo?
+
+Ans- Tabs can be created using the gr.Tabs() context manager, with each tab defined by gr.TabItem(name_of_tab).
+
+(--------------------------------------------------------------------)
+
 
 
 
