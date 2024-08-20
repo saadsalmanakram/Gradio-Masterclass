@@ -376,5 +376,11 @@ Ans- The `num_top_classes` parameter specifies how many of the top predicted cla
 
 (----------------------------------------------------------------------)
 
+71- How do you customize a Gradio interface beyond the basic features?
+
+Ans- You can customize a Gradio interface by changing the layout, adding titles, chaining multiple functions, or splitting the interface into blocks.
+
+(----------------------------------------------------------------------)
+
 
 
