@@ -514,6 +514,12 @@ Ans- A multi-step demo can be created by chaining the output of one function as 
 
 (--------------------------------------------------------------------)
 
+93- What functionality does Blocks provide for updating component properties?
+
+Ans- Blocks allow you to update properties like visibility, size, or options of a component dynamically using the update() method.
+
+(--------------------------------------------------------------------)
+
 
 
 
