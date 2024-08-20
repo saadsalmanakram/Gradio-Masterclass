@@ -154,6 +154,12 @@ Ans- Demos make it easier for researchers to reproduce machine learning models a
 
 (----------------------------------------------------------------------)
 
+25- What role do demos play for quality testers or end users?
+
+Ans- Demos help testers and end users to identify and debug failure points in models.
+
+(----------------------------------------------------------------------)
+
 
 
 
