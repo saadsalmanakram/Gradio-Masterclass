@@ -286,5 +286,11 @@ Ans- Both "model/" and "huggingface/" can be used interchangeably to load models
 
 (-----------------------------------------------------------------------)
 
+47- What role does the article parameter play when creating a Gradio interface?
+
+Ans- The article parameter allows you to add additional information or external links to the Gradio interface, often in the form of HTML.
+
+(-----------------------------------------------------------------------)
+
 
 
