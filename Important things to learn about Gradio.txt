@@ -52,6 +52,12 @@ Ans- Optional inputs can be handled by setting the optional=True parameter in th
 
 (----------------------------------------------------------------------)
 
+10- How would you create an audio-to-audio Gradio Interface that reverses the input audio?
+
+Ans- By defining an Audio input and output component, and using a function that reverses the audio data using np.flipud().
+
+(----------------------------------------------------------------------)
+
 
 
 
