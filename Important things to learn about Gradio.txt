@@ -40,6 +40,11 @@ Ans- You can customize it using parameters like inline, inbrowser, and share.
 
 (------------------------------------------------------------------------)
 
+8- What does setting type="numpy" in an Audio input component do?
+
+Ans- It allows the input data to be passed as a tuple containing the sample rate and data as a NumPy array.
+
+(-----------------------------------------------------------------------)
 
 
 
