@@ -196,5 +196,18 @@ Ans- The link remains active for up to 72 hours.
 
 (----------------------------------------------------------------------)
 
+32- Where does the processing occur when using a temporary Gradio share link?
+
+Ans- Processing happens on your local device, not on Gradio's servers.
+
+(----------------------------------------------------------------------)
+
+33- What optional parameters can be added to a Gradio interface for customization?
+
+Ans- Parameters like `title`, `description`, `article`, `theme`, `examples`, and `live`.
+
+(----------------------------------------------------------------------)
+
+
 
 
