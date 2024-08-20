@@ -268,9 +268,15 @@ Ans- Hugging Face Spaces are environments that host interactive demos, whereas m
 
 (-----------------------------------------------------------------------)
 
-44- 10. How would you change the input type of a Gradio demo loaded from Hugging Face Spaces?
+44- How would you change the input type of a Gradio demo loaded from Hugging Face Spaces?
 
 Ans- You can change the input type by modifying the inputs parameter in the Interface.load() method.
+
+(-----------------------------------------------------------------------)
+
+45- Can you modify a demo after loading it from the Hugging Face Hub? How?
+
+Ans- Yes, you can modify a demo by overriding parameters in the Interface.load() method, such as changing inputs or adding a title.
 
 (-----------------------------------------------------------------------)
 
