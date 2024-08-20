@@ -520,6 +520,18 @@ Ans- Blocks allow you to update properties like visibility, size, or options of 
 
 (--------------------------------------------------------------------)
 
+94- What happens in the example when the radio button's value is 'long'?
+
+Ans- The Textbox component is updated to display 8 lines, making it suitable for longer input.
+
+(--------------------------------------------------------------------)
+
+95- What is the effect of returning gr.Textbox.update() in a function?
+
+Ans- Returning gr.Textbox.update() dynamically changes the properties of the Textbox component based on the function logic.
+
+(--------------------------------------------------------------------)
+
 
 
 
