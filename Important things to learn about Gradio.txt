@@ -220,6 +220,12 @@ Ans- By adding examples that users can click on to populate the interface.
 
 (----------------------------------------------------------------------)
 
+36- What is Hugging Face Spaces used for in the context of Gradio?
+
+Ans- It provides the infrastructure to permanently host your Gradio model on the internet.
+
+(----------------------------------------------------------------------)
+
 
 
 
