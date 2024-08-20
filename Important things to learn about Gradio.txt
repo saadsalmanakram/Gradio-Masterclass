@@ -262,6 +262,12 @@ Ans- Overriding parameters allows customization of the demo, such as changing th
 
 (-----------------------------------------------------------------------)
 
+43- What are Hugging Face Spaces, and how do they differ from models in the Hub?
+
+Ans- Hugging Face Spaces are environments that host interactive demos, whereas models in the Hub are primarily pretrained models.
+
+(-----------------------------------------------------------------------)
+
 
 
 
