@@ -448,6 +448,12 @@ Ans- You would use Blocks for scenarios requiring advanced layout customization,
 
 (--------------------------------------------------------------------)
 
+82- What is the significance of the with statement in Gradio's Blocks API?
+
+Ans- The `with` statement is used to instantiate and organize components within the Blocks context, affecting the application's layout.
+
+(--------------------------------------------------------------------)
+
 
 
 
