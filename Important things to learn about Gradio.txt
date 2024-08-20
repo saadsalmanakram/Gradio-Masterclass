@@ -172,5 +172,11 @@ Ans- Examples include sketch recognition, extractive question answering, and bac
 
 (----------------------------------------------------------------------)
 
+28- How does Gradio benefit non-technical teams or customers?
+
+Ans- Gradio allows machine learning developers to present their work in an accessible way to non-technical audiences.
+
+(----------------------------------------------------------------------)
+
 
 
