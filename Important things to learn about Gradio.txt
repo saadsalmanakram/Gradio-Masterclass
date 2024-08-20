@@ -442,4 +442,12 @@ Ans- The Blocks API is designed to provide full control over the layout and data
 
 (--------------------------------------------------------------------)
 
+81- Why would you use Blocks instead of Interface in Gradio?
+
+Ans- You would use Blocks for scenarios requiring advanced layout customization, multi-step processes, or dynamic component behavior.
+
+(--------------------------------------------------------------------)
+
+
+
 
