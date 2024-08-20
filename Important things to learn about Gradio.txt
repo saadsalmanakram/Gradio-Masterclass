@@ -4,3 +4,9 @@ Ans- The Interface class is used to create a user-friendly interface that wraps 
 
 (------------------------------------------------------------------------)
 
+2- What are the three required parameters of the Interface class in Gradio?
+
+Ans- The required parameters are fn (the prediction function), inputs (input component types), and outputs (output component types).
+
+(------------------------------------------------------------------------)
+
