@@ -429,3 +429,11 @@ Ans- While the Interface class is user-friendly and effective for basic demos, i
      - Dynamically update components based on user interactions, such as changing dropdown options or toggling visibility.  
 
 (--------------------------------------------------------------------)
+
+79- What is the primary purpose of the Interface API in Gradio?
+
+Ans- The Interface API is used to quickly create full machine learning demos by specifying inputs and outputs.
+
+(--------------------------------------------------------------------)
+
+
