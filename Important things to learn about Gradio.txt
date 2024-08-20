@@ -214,6 +214,12 @@ Ans- It makes the demo "live," meaning the model reruns every time the input cha
 
 (----------------------------------------------------------------------)
 
+35- How can you make your Gradio demo more user-friendly?
+
+Ans- By adding examples that users can click on to populate the interface.
+
+(----------------------------------------------------------------------)
+
 
 
 
