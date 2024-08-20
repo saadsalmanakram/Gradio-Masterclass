@@ -508,6 +508,12 @@ Ans- Yes, a component can serve as both input and output, allowing for operation
 
 (--------------------------------------------------------------------)
 
+92- How can you create a multi-step demo in Gradio's Blocks?
+
+Ans- A multi-step demo can be created by chaining the output of one function as the input to another using event triggers.
+
+(--------------------------------------------------------------------)
+
 
 
 
