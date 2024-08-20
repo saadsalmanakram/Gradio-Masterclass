@@ -10,3 +10,9 @@ Ans- The required parameters are fn (the prediction function), inputs (input com
 
 (------------------------------------------------------------------------)
 
+3- How do you define the input components in Gradio's Interface?
+
+Ans- Input components are defined using pre-built Gradio components like "image" or "mic" or custom components like Textbox(lines=7, label="Prompt").
+
+(------------------------------------------------------------------------)
+
