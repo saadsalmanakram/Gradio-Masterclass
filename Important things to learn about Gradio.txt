@@ -346,5 +346,11 @@ Ans- The "default" interpretation setting provides basic input attribution, show
 
 (----------------------------------------------------------------------)
 
+57- How do you implement interpretation for an image classifier in Gradio?
+
+Ans- You implement interpretation by adding the interpretation="default" parameter to the interface that processes image inputs and outputs labels.
+
+(----------------------------------------------------------------------)
+
 
 
