@@ -22,3 +22,9 @@ Ans- The fn parameter represents the function that will process the inputs and g
 
 (------------------------------------------------------------------------)
 
+5- How do you handle multiple inputs in a Gradio Interface?
+
+Ans- Multiple inputs are handled by passing a list of input components, each corresponding to a parameter in the order of the function's arguments.
+
+(------------------------------------------------------------------------)
+
