@@ -1,0 +1,6 @@
+1- What is the purpose of the Interface class in Gradio?
+
+Ans- The Interface class is used to create a user-friendly interface that wraps around a prediction function, allowing users to interact with machine learning models easily.
+
+(------------------------------------------------------------------------)
+
