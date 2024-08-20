@@ -148,6 +148,12 @@ Ans- Demos allow developers to present their work to a wider audience, enable re
 
 (----------------------------------------------------------------------)
 
+24- How do demos help researchers?
+
+Ans- Demos make it easier for researchers to reproduce machine learning models and their behavior.
+
+(----------------------------------------------------------------------)
+
 
 
 
