@@ -100,6 +100,12 @@ Ans- By creating an interface with Audio inputs (mic and file) and a text output
 
 (----------------------------------------------------------------------)
 
+16- How does Gradio infer the label for input components?
+
+Ans- Gradio automatically infers the label from the input parameter name, but you can customize it by setting the label attribute.
+
+(----------------------------------------------------------------------)
+
 
 
 
