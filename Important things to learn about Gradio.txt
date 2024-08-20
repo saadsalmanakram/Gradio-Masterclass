@@ -388,5 +388,11 @@ Ans- Chaining multiple prediction functions allows you to create more complex wo
 
 (----------------------------------------------------------------------)
 
+73- How can you split a Gradio interface into customizable blocks?
+
+Ans- Gradio provides a feature called "blocks" which allows splitting an interface into more customizable and modular sections.
+
+(----------------------------------------------------------------------)
+
 
 
