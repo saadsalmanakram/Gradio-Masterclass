@@ -316,6 +316,12 @@ Ans- Session state is used in chatbots to maintain the conversation history as t
 
 (----------------------------------------------------------------------)
 
+52- How do you specify an initial value for the state in a Gradio interface?
+
+Ans- You can pass a default value to the state parameter, which will be used as the initial value when the interface loads.
+
+(----------------------------------------------------------------------)
+
 
 
 
