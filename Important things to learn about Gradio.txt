@@ -382,5 +382,11 @@ Ans- You can customize a Gradio interface by changing the layout, adding titles,
 
 (----------------------------------------------------------------------)
 
+72- What is the purpose of chaining multiple prediction functions in Gradio?
+
+Ans- Chaining multiple prediction functions allows you to create more complex workflows by passing the output of one function as the input to another.
+
+(----------------------------------------------------------------------)
+
 
 
