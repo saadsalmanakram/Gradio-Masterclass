@@ -4,6 +4,12 @@ Ans- Gradio is a Python library that allows you to quickly create user interface
 
 (------------------------------------------------------------------------)
 
+How do you install Gradio?
+
+Ans- You can install Gradio using `pip install gradio`.
+
+(------------------------------------------------------------------------)
+
 1- What is the purpose of the Interface class in Gradio?
 
 Ans- The Interface class is used to create a user-friendly interface that wraps around a prediction function, allowing users to interact with machine learning models easily.
