@@ -232,6 +232,18 @@ Ans- By creating and pushing to a repository where your Gradio interface code wi
 
 (----------------------------------------------------------------------)
 
+38- How can you load a model from the Hugging Face Hub using Gradio?
+
+Ans- You can load a model using the Interface.load() method by specifying "huggingface/" followed by the model name.
+
+(----------------------------------------------------------------------)
+
+39- 3. What is the advantage of loading models via the Hugging Face Inference API in Gradio?
+
+Ans- Loading models via the Inference API is ideal for large models, as it avoids the need to load them into memory, saving computational resources.
+
+(----------------------------------------------------------------------)
+
 
 
 
