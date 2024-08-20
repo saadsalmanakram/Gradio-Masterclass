@@ -208,6 +208,12 @@ Ans- Parameters like `title`, `description`, `article`, `theme`, `examples`, and
 
 (----------------------------------------------------------------------)
 
+34- What does the live=True parameter do in a Gradio interface?
+
+Ans- It makes the demo "live," meaning the model reruns every time the input changes.
+
+(----------------------------------------------------------------------)
+
 
 
 
