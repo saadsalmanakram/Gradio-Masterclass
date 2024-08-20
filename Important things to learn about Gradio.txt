@@ -412,5 +412,13 @@ Ans- A practical example of using state is maintaining a conversation history in
 
 (----------------------------------------------------------------------)
 
+77- Interface vs. Blocks: Understanding the Difference?
+
+Ans- - ⚡ Interface: A high-level API designed to simplify the creation of machine learning demos. You provide a list of inputs and outputs, and Gradio takes care of the rest, generating a complete demo for you.
+     - 🧱 Blocks: A low-level API that offers granular control over your application’s data flow and layout. With Blocks, you can build complex, multi-step applications, making it a more versatile tool for sophisticated use cases.
+
+(---------------------------------------------------------------------)
+
+
 
 
