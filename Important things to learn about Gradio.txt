@@ -178,5 +178,11 @@ Ans- Gradio allows machine learning developers to present their work in an acces
 
 (----------------------------------------------------------------------)
 
+29- How can you share a Gradio demo temporarily?
+
+Ans- By setting share=True in the launch() method, which generates a public, shareable link.
+
+(----------------------------------------------------------------------)
+
 
 
