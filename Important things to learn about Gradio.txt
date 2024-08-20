@@ -292,5 +292,18 @@ Ans- The article parameter allows you to add additional information or external 
 
 (-----------------------------------------------------------------------)
 
+48- What is the purpose of using state in a Gradio interface?
+
+Ans- State in Gradio allows data to persist across multiple submits within the same session, which is useful for interactive applications like chatbots.
+
+(-----------------------------------------------------------------------)
+
+49- How do you implement session state in a Gradio interface?
+
+Ans- You implement session state by adding an extra state parameter to your function, returning the updated state, and including state components in the interface.
+
+(-----------------------------------------------------------------------)
+
+
 
 
