@@ -466,6 +466,12 @@ Ans- Events are assigned by calling the event method (e.g., change, click) on a 
 
 (--------------------------------------------------------------------)
 
+85- What happens when the value of the first Textbox changes in the provided example?
+
+Ans- The flip_text() function is triggered, reversing the text and updating the second Textbox.
+
+(--------------------------------------------------------------------)
+
 
 
 
