@@ -538,6 +538,12 @@ Ans- You can use the gr.ChatInterface class to build a fully functional chatbot 
 
 (--------------------------------------------------------------------)
 
+97- What is the purpose of the gradio_client Python library?
+
+Ans- The gradio_client allows you to query any Gradio app programmatically using Python.
+
+(--------------------------------------------------------------------)
+
 
 
 
