@@ -622,6 +622,12 @@ Ans- Use the title and description keyword arguments in the gr.Interface constru
 
 (---------------------------------------------------------------------)
 
+111- What is the purpose of the additional_inputs argument in gr.Interface?
+
+Ans- It allows you to include extra input components that are hidden by default and shown within an accordion.
+
+(---------------------------------------------------------------------)
+
 
 
 
