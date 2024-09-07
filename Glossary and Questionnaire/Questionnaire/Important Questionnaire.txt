@@ -652,6 +652,12 @@ Ans- It provides additional information or instructions related to the component
 
 (---------------------------------------------------------------------)
 
+116- How can you control the appearance of an accordion used for additional inputs?
+
+Ans- By using the additional_inputs_accordion argument with a string or an instance of gr.Accordion().
+
+(---------------------------------------------------------------------)
+
 
 
 
