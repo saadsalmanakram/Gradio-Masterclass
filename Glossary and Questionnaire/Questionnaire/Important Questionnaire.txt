@@ -646,6 +646,12 @@ Ans- It allows you to add additional content below the interface, such as text o
 
 (---------------------------------------------------------------------)
 
+115- What is the info argument used for in Gradio components?
+
+Ans- It provides additional information or instructions related to the component, often displayed as a tooltip.
+
+(---------------------------------------------------------------------)
+
 
 
 
