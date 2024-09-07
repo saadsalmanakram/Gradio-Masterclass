@@ -532,6 +532,12 @@ Ans- Returning gr.Textbox.update() dynamically changes the properties of the Tex
 
 (--------------------------------------------------------------------)
 
+96- How can you use Gradio to create a chatbot UI?
+
+Ans- You can use the gr.ChatInterface class to build a fully functional chatbot interface.
+
+(--------------------------------------------------------------------)
+
 
 
 
