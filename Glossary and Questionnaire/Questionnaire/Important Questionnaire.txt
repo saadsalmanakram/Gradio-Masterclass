@@ -568,6 +568,12 @@ Ans- Gradio-Lite allows Gradio apps to run entirely in the browser using Pyodide
 
 (--------------------------------------------------------------------)
 
+102- Can you specify inputs and outputs in Gradio using both strings and component instances?
+
+Ans- Yes, you can pass them as strings like "textbox" or as component instances like gr.Textbox().
+
+(---------------------------------------------------------------------)
+
 
 
 
