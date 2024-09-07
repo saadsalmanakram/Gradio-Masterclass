@@ -562,6 +562,12 @@ Ans- Hugging Face Spaces provides a popular, free platform for hosting Gradio ap
 
 (--------------------------------------------------------------------)
 
+101- What is Gradio-Lite?
+
+Ans- Gradio-Lite allows Gradio apps to run entirely in the browser using Pyodide, without needing a server.
+
+(--------------------------------------------------------------------)
+
 
 
 
