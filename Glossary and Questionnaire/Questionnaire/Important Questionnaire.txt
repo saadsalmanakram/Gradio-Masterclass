@@ -550,6 +550,12 @@ Ans- By using the gradio app.py command, which automatically reloads the app whe
 
 (--------------------------------------------------------------------)
 
+99- What components can be used as inputs in Gradio?
+
+Ans- Gradio offers over 30 built-in components like gr.Textbox(), gr.Image(), and gr.Slider() for input.
+
+(--------------------------------------------------------------------)
+
 
 
 
