@@ -628,6 +628,12 @@ Ans- It allows you to include extra input components that are hidden by default 
 
 (---------------------------------------------------------------------)
 
+112- How do you handle errors in a Gradio interface?
+
+Ans- By raising a gr.Error within your function to display error messages.
+
+(---------------------------------------------------------------------)
+
 
 
 
