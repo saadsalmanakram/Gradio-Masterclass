@@ -556,6 +556,12 @@ Ans- Gradio offers over 30 built-in components like gr.Textbox(), gr.Image(), an
 
 (--------------------------------------------------------------------)
 
+100- What is the significance of Hugging Face Spaces in relation to Gradio?
+
+Ans- Hugging Face Spaces provides a popular, free platform for hosting Gradio applications.
+
+(--------------------------------------------------------------------)
+
 
 
 
