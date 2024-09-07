@@ -610,6 +610,12 @@ Ans- It expects a NumPy array with shape (height, width, 3) for RGB images.
 
 (---------------------------------------------------------------------)
 
+109- How can you customize a slider component in Gradio?
+
+Ans- By using gr.Slider with parameters like value, minimum, maximum, and step.
+
+(---------------------------------------------------------------------)
+
 
 
 
