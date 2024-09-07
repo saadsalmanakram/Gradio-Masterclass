@@ -616,6 +616,12 @@ Ans- By using gr.Slider with parameters like value, minimum, maximum, and step.
 
 (---------------------------------------------------------------------)
 
+110- How can you specify a title and description for a Gradio interface?
+
+Ans- Use the title and description keyword arguments in the gr.Interface constructor.
+
+(---------------------------------------------------------------------)
+
 
 
 
