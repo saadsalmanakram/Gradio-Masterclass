@@ -592,6 +592,12 @@ Ans- A public URL is generated, allowing others to access your demo remotely.
 
 (---------------------------------------------------------------------)
 
+106- What are the required parameters for initializing gr.Interface?
+
+Ans- fn (function), inputs (list of input components), and outputs (list of output components).
+
+(---------------------------------------------------------------------)
+
 
 
 
