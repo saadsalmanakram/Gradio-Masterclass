@@ -574,6 +574,12 @@ Ans- Yes, you can pass them as strings like "textbox" or as component instances 
 
 (---------------------------------------------------------------------)
 
+103- What is the difference between gr.Interface and gr.Blocks?
+
+Ans- gr.Interface is a high-level API for quick demos, while gr.Blocks offers more customization and complex layouts.
+
+(---------------------------------------------------------------------)
+
 
 
 
