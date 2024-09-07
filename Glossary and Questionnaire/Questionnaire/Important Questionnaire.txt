@@ -640,6 +640,12 @@ Ans- Set the type argument to "filepath" in the gr.Image component.
 
 (---------------------------------------------------------------------)
 
+114- What is the function of the article argument in the gr.Interface constructor?
+
+Ans- It allows you to add additional content below the interface, such as text or HTML.
+
+(---------------------------------------------------------------------)
+
 
 
 
