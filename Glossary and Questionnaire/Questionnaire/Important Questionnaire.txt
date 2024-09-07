@@ -580,6 +580,12 @@ Ans- gr.Interface is a high-level API for quick demos, while gr.Blocks offers mo
 
 (---------------------------------------------------------------------)
 
+104- Can Gradio handle multiple inputs and outputs?
+
+Ans- Yes, Gradio supports multiple inputs and outputs using lists of components.
+
+(---------------------------------------------------------------------)
+
 
 
 
