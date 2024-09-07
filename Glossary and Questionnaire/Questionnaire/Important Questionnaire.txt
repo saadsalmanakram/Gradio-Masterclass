@@ -634,6 +634,12 @@ Ans- By raising a gr.Error within your function to display error messages.
 
 (---------------------------------------------------------------------)
 
+113- How can you adjust the default behavior of an Image component to handle file paths instead of NumPy arrays?
+
+Ans- Set the type argument to "filepath" in the gr.Image component.
+
+(---------------------------------------------------------------------)
+
 
 
 
