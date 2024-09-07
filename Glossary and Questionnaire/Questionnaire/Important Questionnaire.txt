@@ -586,6 +586,12 @@ Ans- Yes, Gradio supports multiple inputs and outputs using lists of components.
 
 (---------------------------------------------------------------------)
 
+105- What happens when you pass share=True to launch() in Gradio?
+
+Ans- A public URL is generated, allowing others to access your demo remotely.
+
+(---------------------------------------------------------------------)
+
 
 
 
