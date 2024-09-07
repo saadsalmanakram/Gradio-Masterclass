@@ -604,6 +604,12 @@ Ans- It maps each input component to a function parameter and each output compon
 
 (---------------------------------------------------------------------)
 
+108- What type of object does gr.Image expect as input?
+
+Ans- It expects a NumPy array with shape (height, width, 3) for RGB images.
+
+(---------------------------------------------------------------------)
+
 
 
 
