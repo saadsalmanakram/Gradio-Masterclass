@@ -544,6 +544,12 @@ Ans- The gradio_client allows you to query any Gradio app programmatically using
 
 (--------------------------------------------------------------------)
 
+98- How can you run a Gradio demo in hot reload mode?
+
+Ans- By using the gradio app.py command, which automatically reloads the app whenever changes are made to the file.
+
+(--------------------------------------------------------------------)
+
 
 
 
