@@ -598,6 +598,12 @@ Ans- fn (function), inputs (list of input components), and outputs (list of outp
 
 (---------------------------------------------------------------------)
 
+107- How does gr.Interface handle multiple inputs and outputs?
+
+Ans- It maps each input component to a function parameter and each output component to a function return value in order.
+
+(---------------------------------------------------------------------)
+
 
 
 
