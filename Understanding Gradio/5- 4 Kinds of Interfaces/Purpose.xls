@@ -1,0 +1,7 @@
+Standard Demos: Have both inputs and outputs (e.g., image classifier).
+
+Output-only Demos: Produce an output without taking any input (e.g., image generation).
+
+Input-only Demos: Accept input without producing an output (e.g., save uploaded images).
+
+Unified Demos: Input and output are the same, where output overrides the input (e.g., text autocomplete).
