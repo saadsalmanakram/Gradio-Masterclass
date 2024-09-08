@@ -778,6 +778,11 @@ Ans- File-based data is saved in separate folders within the flagged directory, 
 
 (---------------------------------------------------------------------)
 
+137- What is the purpose of Gradio's interface state?
+
+Ans- It allows demos to modify behavior based on previous interactions, persisting data across function calls.
+
+(---------------------------------------------------------------------)
 
 
 
