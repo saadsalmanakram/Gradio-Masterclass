@@ -1766,3 +1766,9 @@ Ans- Use the progress.tqdm() method to iterate and track progress.
 
 (-----------------------------------------------------------------------)
 
+301- What library does Gradio integrate for automatic progress updates?
+
+Ans- Gradio integrates with the tqdm library for tracking progress.
+
+(-----------------------------------------------------------------------)
+
