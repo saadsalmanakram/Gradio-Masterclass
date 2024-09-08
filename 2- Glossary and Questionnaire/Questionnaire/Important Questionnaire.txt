@@ -1204,3 +1204,9 @@ Ans- Pass a string with CSS units (like "50vw") to the width or height parameter
 
 (----------------------------------------------------------------------)
 
+208- How do you create tabs in Gradio?
+
+Ans- Use the with gr.Tab('tab_name'): context to define components for each tab.
+
+(----------------------------------------------------------------------)
+
