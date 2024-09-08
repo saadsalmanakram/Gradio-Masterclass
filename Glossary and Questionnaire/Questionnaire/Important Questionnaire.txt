@@ -796,6 +796,12 @@ Ans- Use global state when you want data, like model loading, to be accessible a
 
 (---------------------------------------------------------------------)
 
+140- How does Gradio's global state work in practice?
+
+Ans- A variable declared outside a function can be modified and accessed inside the function, persisting across calls.
+
+(---------------------------------------------------------------------)
+
 
 
 
