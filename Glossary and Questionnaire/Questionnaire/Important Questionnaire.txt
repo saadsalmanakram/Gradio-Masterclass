@@ -706,6 +706,18 @@ Ans- By enabling caching, the system preloads and stores example outputs so user
 
 (---------------------------------------------------------------------)
 
+125- What is "lazy" caching, and how does it work?
+
+Ans- Lazy caching means that each example is only cached the first time it’s used, speeding up future access without slowing down the initial setup.
+
+(---------------------------------------------------------------------)
+
+126- What happens if you update examples or logic after caching?
+
+Ans- You need to clear the cache and rebuild it, as cached data will not update automatically.
+
+(---------------------------------------------------------------------)
+
 
 
 
