@@ -748,6 +748,13 @@ Ans- By providing a list of strings to the flagging_options argument, which user
 
 (---------------------------------------------------------------------)
 
+132- What will the folder structure look like if the interface involves images?
+
+Ans- The directory will include subfolders for input images and output data, along with a CSV file logging the inputs and outputs.
+
+(---------------------------------------------------------------------)
+
+
 
 
 
