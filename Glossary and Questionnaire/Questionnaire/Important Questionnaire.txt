@@ -946,6 +946,11 @@ Ans- It continuously evaluates the function based on updated inputs without manu
 
 (----------------------------------------------------------------------)
 
+165- What does setting live=True in a Gradio interface do?
+
+Ans- It enables the interface to automatically refresh when input changes, providing real-time feedback.
+
+(----------------------------------------------------------------------)
 
 
 
