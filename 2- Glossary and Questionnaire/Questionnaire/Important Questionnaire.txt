@@ -1240,3 +1240,9 @@ Ans- The equal_height parameter controls whether elements in the Row have equal 
 
 (----------------------------------------------------------------------)
 
+214- What is the purpose of gr.State in Gradio Blocks?
+
+Ans- gr.State is used to maintain state between function calls within a single user's session.
+
+(----------------------------------------------------------------------)
+
