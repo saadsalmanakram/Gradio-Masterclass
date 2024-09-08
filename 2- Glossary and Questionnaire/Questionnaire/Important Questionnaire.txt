@@ -1544,3 +1544,9 @@ Ans- Each event listener processes one request at a time by default.
 
 (-----------------------------------------------------------------------)
 
+264- How can you increase the number of requests processed simultaneously in Gradio?
+
+Ans- By setting the concurrency_count parameter to the desired number of concurrent requests.
+
+(-----------------------------------------------------------------------)
+
