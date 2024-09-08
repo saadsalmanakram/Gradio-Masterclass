@@ -1460,3 +1460,9 @@ Ans- Add a JavaScript script to the head parameter that listens for keyboard eve
 
 (-----------------------------------------------------------------------)
 
+250- What potential issues should you be aware of when injecting custom HTML or JavaScript into Gradio demos?
+
+Ans- Custom HTML or JavaScript can affect browser compatibility and behavior, so it’s important to test across different browsers and ensure compatibility with default browser settings.
+
+(-----------------------------------------------------------------------)
+
