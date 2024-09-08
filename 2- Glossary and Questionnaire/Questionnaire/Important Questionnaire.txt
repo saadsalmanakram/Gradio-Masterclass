@@ -1472,3 +1472,9 @@ Ans- Use JavaScript functions in event listeners or directly in the js parameter
 
 (-----------------------------------------------------------------------)
 
+252- What is Gradio Blocks?
+
+Ans- Gradio Blocks is a framework for creating interactive web interfaces for machine learning models, which can also be used like regular Python functions.
+
+(-----------------------------------------------------------------------)
+
