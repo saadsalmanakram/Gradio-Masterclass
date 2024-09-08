@@ -826,6 +826,13 @@ Ans- No, session state is isolated and cannot be shared between different users.
 
 (---------------------------------------------------------------------)
 
+145- What is the default value of Gradio's session state?
+
+Ans- The default value of session state is None, but you can set an initial value using the value argument.
+
+(----------------------------------------------------------------------)
+
+
 
 
 
