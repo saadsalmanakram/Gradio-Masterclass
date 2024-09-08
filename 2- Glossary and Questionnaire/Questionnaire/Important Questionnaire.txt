@@ -1538,3 +1538,9 @@ Ans- It sets the number of requests that can be processed simultaneously by an e
 
 (-----------------------------------------------------------------------)
 
+263- What is the default behavior of Gradio's queue?
+
+Ans- Each event listener processes one request at a time by default.
+
+(-----------------------------------------------------------------------)
+
