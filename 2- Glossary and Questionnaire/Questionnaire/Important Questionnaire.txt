@@ -1772,3 +1772,9 @@ Ans- Gradio integrates with the tqdm library for tracking progress.
 
 (-----------------------------------------------------------------------)
 
+302- What value range is used to update progress in Gradio?
+
+Ans- Progress is updated using float values between 0 and 1.
+
+(-----------------------------------------------------------------------)
+
