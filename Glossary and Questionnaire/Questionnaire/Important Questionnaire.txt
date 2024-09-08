@@ -898,6 +898,12 @@ Ans- Yes, both input and output components can be set to streaming mode.
 
 (----------------------------------------------------------------------)
 
+157- How does gr.Image(sources=["webcam"], streaming=True) behave in a live interface?
+
+Ans- It continuously streams the webcam feed to the backend, processing frames in real-time.
+
+(----------------------------------------------------------------------)
+
 
 
 
