@@ -1012,6 +1012,12 @@ Ans- A text generation model where the input text box is used as both the input 
 
 (----------------------------------------------------------------------)
 
+176- Which Gradio interface type would you use for a text-to-image model?
+
+Ans- A Standard demo, since it has distinct inputs (text) and outputs (image).
+
+(----------------------------------------------------------------------)
+
 
 
 
