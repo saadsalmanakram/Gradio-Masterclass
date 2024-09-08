@@ -1490,3 +1490,9 @@ Ans- Use gr.load(name="spaces/username/app_name") to load the app, and then call
 
 (-----------------------------------------------------------------------)
 
+255- What is the purpose of the fn_index parameter in Gradio?
+
+Ans- The fn_index parameter specifies the index of the function to call if the Gradio app has multiple functions.
+
+(-----------------------------------------------------------------------)
+
