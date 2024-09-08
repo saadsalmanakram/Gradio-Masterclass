@@ -1042,6 +1042,12 @@ Ans- The UI only shows output elements and no input fields, suitable for models 
 
 (----------------------------------------------------------------------)
 
+181- What Gradio interface is suitable for a feature that saves user-uploaded files?
+
+Ans- An Input-only demo, where the function accepts input but does not provide any output.
+
+(----------------------------------------------------------------------)
+
 
 
 
