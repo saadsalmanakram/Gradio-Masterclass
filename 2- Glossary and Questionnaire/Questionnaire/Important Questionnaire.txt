@@ -1820,3 +1820,10 @@ Ans- It limits the number of requests processed in a single batch, which can hel
 
 (-----------------------------------------------------------------------)
 
+310- What does the GRADIO_SERVER_PORT environment variable do?
+
+Ans- It specifies the port on which the Gradio app will run. Default is 7860.
+
+(-----------------------------------------------------------------------)
+
+
