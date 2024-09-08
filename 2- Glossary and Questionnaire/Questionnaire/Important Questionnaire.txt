@@ -1844,4 +1844,10 @@ Ans- Use GRADIO_ANALYTICS_ENABLED with values "True" or "False". Default is "Tru
 
 (-----------------------------------------------------------------------)
 
+314- What is the purpose of the GRADIO_DEBUG environment variable?
+
+Ans- It enables or disables debug mode in Gradio, where 1 enables it and 0 disables it. Default is 0.
+
+(-----------------------------------------------------------------------)
+
 
