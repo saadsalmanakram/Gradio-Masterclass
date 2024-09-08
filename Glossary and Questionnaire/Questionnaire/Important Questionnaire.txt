@@ -1060,7 +1060,11 @@ Ans- The Blocks class allows the construction of complex custom demos by managin
 
 (----------------------------------------------------------------------)
 
+184- How do you create a Blocks demo in Gradio?
 
+Ans- Use the with gr.Blocks() clause to define and add components within the demo context.
+
+(----------------------------------------------------------------------)
 
 
 
