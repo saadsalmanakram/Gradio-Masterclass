@@ -1790,3 +1790,9 @@ Ans- Batch functions take in a list of inputs and return a list of predictions, 
 
 (-----------------------------------------------------------------------)
 
+305- How do batch functions benefit a Gradio demo?
+
+Ans- They enable queuing and parallel processing of multiple requests, potentially speeding up the demo by reducing overall processing time.
+
+(-----------------------------------------------------------------------)
+
