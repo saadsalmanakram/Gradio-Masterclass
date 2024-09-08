@@ -1952,3 +1952,9 @@ Ans- It saves generated images to a directory unique to the user based on their 
 
 (------------------------------------------------------------------------)
 
+332- What are the potential issues if resource cleanup is not handled properly in a Gradio application?
+
+Ans- Improper resource cleanup can lead to excessive RAM or disk usage, potentially crashing the application or degrading server performance.
+
+(------------------------------------------------------------------------)
+
