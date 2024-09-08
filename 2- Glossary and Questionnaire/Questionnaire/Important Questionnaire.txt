@@ -1252,3 +1252,9 @@ Ans- Global state is shared across all users, whereas session state is specific 
 
 (----------------------------------------------------------------------)
 
+216- How is state managed in Gradio Blocks?
+
+Ans- State is managed using gr.State to store and persist data across function calls within the same session.
+
+(----------------------------------------------------------------------)
+
