@@ -1724,3 +1724,9 @@ Ans- To alert the user about non-critical issues, like an empty name, while cont
 
 (-----------------------------------------------------------------------)
 
+294- What is Gradio's Progress Bar feature used for?
+
+Ans- It allows developers to show customizable progress updates to users during long-running tasks.
+
+(-----------------------------------------------------------------------)
+
