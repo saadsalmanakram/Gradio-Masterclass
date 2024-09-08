@@ -1174,4 +1174,9 @@ Ans- Use the scale and min_width arguments to control the width and wrapping beh
 
 (----------------------------------------------------------------------)
 
+203- What is the effect of setting scale=0 for a component in a Row?
+
+Ans- The component will not expand to take up any space in the Row.
+
+(----------------------------------------------------------------------)
 
