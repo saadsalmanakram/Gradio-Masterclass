@@ -1670,3 +1670,8 @@ Ans- It defines a slider input ranging from 1 to 10, with a default value of 3 a
 
 (-----------------------------------------------------------------------)
 
+285- What does gr.Error("custom message") do?
+
+Ans- It raises an error, halts execution, and displays a custom error message to the user.
+
+(-----------------------------------------------------------------------)
