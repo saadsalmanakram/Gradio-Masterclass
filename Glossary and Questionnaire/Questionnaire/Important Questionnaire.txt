@@ -694,6 +694,12 @@ Ans- Point the system to the directory where flagged data is stored, and the exa
 
 (---------------------------------------------------------------------)
 
+123- What does it mean to provide partial examples?
+
+Ans- You can exclude certain input fields from examples by leaving them blank or passing None for those fields.
+
+(---------------------------------------------------------------------)
+
 
 
 
