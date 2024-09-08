@@ -1269,3 +1269,10 @@ Ans- No, gr.State data is not shared between different users; it is specific to 
 Ans- Global state is implemented by defining variables outside of function calls, which are shared across all users.
 
 (----------------------------------------------------------------------)
+
+219- Is global state in Gradio Blocks mutable?
+
+Ans- Yes, global state is mutable and can be changed, with the changes reflected across all users.
+
+(----------------------------------------------------------------------)
+
