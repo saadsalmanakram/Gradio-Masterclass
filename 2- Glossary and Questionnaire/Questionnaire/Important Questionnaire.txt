@@ -1814,4 +1814,9 @@ Ans- It allows the Gradio server to group multiple requests into a batch and pro
 
 (-----------------------------------------------------------------------)
 
+309- What is the impact of the max_batch_size parameter on Gradio's batch processing?
+
+Ans- It limits the number of requests processed in a single batch, which can help manage resource usage and control processing time.
+
+(-----------------------------------------------------------------------)
 
