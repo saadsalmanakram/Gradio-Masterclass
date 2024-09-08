@@ -1658,3 +1658,9 @@ Ans- The final output is shown, and in this case, a solid orange image is displa
 
 (-----------------------------------------------------------------------)
 
+283- How does Gradio handle input streaming?
+
+Ans- Gradio can rerun models based on dynamic input changes, such as generating a new image every time a user types a letter in a textbox.
+
+(-----------------------------------------------------------------------)
+
