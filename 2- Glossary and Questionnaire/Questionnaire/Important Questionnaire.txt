@@ -1604,3 +1604,9 @@ Ans- Use concurrency_id to group them into the same queue with a shared concurre
 
 (-----------------------------------------------------------------------)
 
+274- What would you do if your app has limited GPU resources but multiple GPU-dependent functions?
+
+Ans- Set the same concurrency_id for those functions to share a GPU queue and limit the concurrency accordingly.
+
+(-----------------------------------------------------------------------)
+
