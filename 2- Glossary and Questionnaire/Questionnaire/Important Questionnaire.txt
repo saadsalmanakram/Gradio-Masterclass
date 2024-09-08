@@ -1892,3 +1892,9 @@ Ans- Set FORWARDED_ALLOW_IPS with a comma-separated list of trusted IP addresses
 
 (-----------------------------------------------------------------------)
 
+322- How can you set environment variables in a .env file for a Gradio application?
+
+Ans- Add the variables in the .env file, e.g., GRADIO_SERVER_PORT=8000 and use a tool like dotenv to load them.
+
+(-----------------------------------------------------------------------)
+
