@@ -766,6 +766,12 @@ Ans- Yes, by specifying the flagging_dir argument for storing logs and flagging_
 
 (---------------------------------------------------------------------)
 
+135- What additional feature can you add to the flagging mechanism for user feedback?
+
+Ans- The flagging_options argument lets users specify reasons for flagging, which are saved as an extra CSV column.
+
+(---------------------------------------------------------------------)
+
 
 
 
