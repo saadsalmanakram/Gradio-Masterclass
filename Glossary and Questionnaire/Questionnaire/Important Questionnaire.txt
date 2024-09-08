@@ -682,6 +682,11 @@ Ans- By specifying the path to a directory with the necessary example data, or b
 
 (---------------------------------------------------------------------)
 
+121- What should a log file contain when loading multiple input examples?
+
+Ans- The log file should include columns for each input field, with corresponding values for each example.
+
+(---------------------------------------------------------------------)
 
 
 
