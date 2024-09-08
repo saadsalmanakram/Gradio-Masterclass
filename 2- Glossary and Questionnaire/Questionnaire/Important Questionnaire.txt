@@ -1562,3 +1562,9 @@ Ans- It allows multiple event listeners to share the same queue by assigning the
 
 (-----------------------------------------------------------------------)
 
+267- When would you use a shared queue with concurrency_id?
+
+Ans- When multiple functions require limited resources, like GPUs, and you want to manage them through a single queue.
+
+(-----------------------------------------------------------------------)
+
