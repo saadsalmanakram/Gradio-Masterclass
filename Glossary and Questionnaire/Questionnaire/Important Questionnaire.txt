@@ -964,6 +964,12 @@ Ans- The interface will only update when the user clicks the submit button.
 
 (----------------------------------------------------------------------)
 
+168- What are the 4 kinds of Gradio interfaces?
+
+Ans- Standard demos, Output-only demos, Input-only demos, and Unified demos.
+
+(----------------------------------------------------------------------)
+
 
 
 
