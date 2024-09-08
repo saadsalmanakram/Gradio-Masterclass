@@ -1928,3 +1928,9 @@ Ans- By setting delete_cache to a tuple like (86400, 86400), you can configure t
 
 (-----------------------------------------------------------------------)
 
+328- What is the purpose of the Blocks.unload() event in Gradio?
+
+Ans- Blocks.unload() allows you to run custom cleanup functions when a user disconnects, enabling immediate cleanup of resources associated with that user.
+
+(-----------------------------------------------------------------------)
+
