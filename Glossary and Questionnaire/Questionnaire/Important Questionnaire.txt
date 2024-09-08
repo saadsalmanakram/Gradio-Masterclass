@@ -886,6 +886,12 @@ Ans- With streaming=True, the interface continuously sends and processes data du
 
 (----------------------------------------------------------------------)
 
+155- What is the purpose of streaming mode in Gradio components like gr.Image or gr.Audio?
+
+Ans- It allows for continuous real-time data processing, sending data to the backend without waiting for completion.
+
+(----------------------------------------------------------------------)
+
 
 
 
