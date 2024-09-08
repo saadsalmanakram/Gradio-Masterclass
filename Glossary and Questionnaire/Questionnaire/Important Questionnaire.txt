@@ -820,6 +820,12 @@ Ans- You pass an additional state parameter into the function, update the state,
 
 (---------------------------------------------------------------------)
 
+144- Can session state be shared across different user sessions in Gradio?
+
+Ans- No, session state is isolated and cannot be shared between different users.
+
+(---------------------------------------------------------------------)
+
 
 
 
