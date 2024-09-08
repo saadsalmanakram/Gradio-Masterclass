@@ -1162,4 +1162,10 @@ Ans- Use the gr.Row() context to arrange components horizontally.
 
 (----------------------------------------------------------------------)
 
+201- How do you ensure all elements in a Row have the same height?
+
+Ans- By default, elements in a Row have the same height, but you can set equal_height=False to change this.
+
+(----------------------------------------------------------------------)
+
 
