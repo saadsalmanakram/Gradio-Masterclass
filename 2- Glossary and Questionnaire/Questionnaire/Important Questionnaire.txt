@@ -1396,3 +1396,10 @@ Ans- Set the component's every parameter to timer or use timer.tick() to call a 
 
 (-----------------------------------------------------------------------)
 
+240- What is the purpose of the css parameter in Gradio’s Blocks constructor?
+
+Ans- The css parameter allows you to add custom CSS styling to your Gradio demo, either by passing a CSS string or a file path.
+
+(-----------------------------------------------------------------------)
+
+
