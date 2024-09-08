@@ -1664,3 +1664,8 @@ Ans- Gradio can rerun models based on dynamic input changes, such as generating 
 
 (-----------------------------------------------------------------------)
 
+284- What does gr.Slider(1, 10, 3, step=1) define in the interface?
+
+Ans- It defines a slider input ranging from 1 to 10, with a default value of 3 and a step size of 1.
+
+(-----------------------------------------------------------------------)
