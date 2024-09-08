@@ -1448,3 +1448,9 @@ Ans- Define a JavaScript function to create the animation and pass it to the js 
 
 (-----------------------------------------------------------------------)
 
+248- What is the purpose of the head parameter in the Gradio Blocks constructor?
+
+Ans- The head parameter is used to inject custom HTML tags, such as scripts or meta tags, into the <head> of the document for functionalities like analytics or custom browser behaviors.
+
+(-----------------------------------------------------------------------)
+
