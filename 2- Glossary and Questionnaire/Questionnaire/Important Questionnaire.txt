@@ -1288,3 +1288,9 @@ Ans- By passing the default value as an argument when creating the gr.State obje
 
 (----------------------------------------------------------------------)
 
+222- What are the steps to use gr.State in an event listener?
+
+Ans- Create a gr.State object, use it as an input and output in the event listener, and handle it within the function to update or retrieve data.
+
+(----------------------------------------------------------------------)
+
