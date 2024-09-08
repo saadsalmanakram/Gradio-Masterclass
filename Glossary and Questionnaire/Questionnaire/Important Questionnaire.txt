@@ -1000,6 +1000,12 @@ Ans- Yes, Output-only demos can be built by setting inputs=None.
 
 (----------------------------------------------------------------------)
 
+174- How do you create an Input-only demo in Gradio?
+
+Ans- Set the outputs parameter to None in the gr.Interface() method.
+
+(----------------------------------------------------------------------)
+
 
 
 
