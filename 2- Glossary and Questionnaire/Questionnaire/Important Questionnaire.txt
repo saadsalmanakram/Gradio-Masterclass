@@ -1318,3 +1318,15 @@ Ans- The function re-runs and replaces the previously rendered components with t
 
 (----------------------------------------------------------------------)
 
+227- Can @gr.render be used to dynamically create a variable number of components?
+
+Ans- Yes, it can dynamically create components based on the inputs provided to the function.
+
+(----------------------------------------------------------------------)
+
+228- How do you control when a @gr.render function is triggered?
+
+Ans- By using the triggers argument in the decorator to specify custom event listeners.
+
+(----------------------------------------------------------------------)
+
