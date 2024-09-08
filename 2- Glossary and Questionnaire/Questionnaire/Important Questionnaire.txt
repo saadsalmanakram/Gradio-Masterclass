@@ -1354,3 +1354,9 @@ Ans- It simplifies managing and querying multiple components and their values, e
 
 (-----------------------------------------------------------------------)
 
+233- What should you do if you need an automatic render at the start of the app?
+
+Ans- Include demo.load in the triggers argument to ensure the initial render occurs.
+
+(-----------------------------------------------------------------------)
+
