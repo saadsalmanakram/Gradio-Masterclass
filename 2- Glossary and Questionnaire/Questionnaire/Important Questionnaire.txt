@@ -1526,3 +1526,9 @@ Ans- Gradio automatically creates a queue for each event listener to handle heav
 
 (-----------------------------------------------------------------------)
 
+261- Why does Gradio have a queuing system?
+
+Ans- To manage heavy processing tasks by queuing incoming requests and preventing system overload.
+
+(-----------------------------------------------------------------------)
+
