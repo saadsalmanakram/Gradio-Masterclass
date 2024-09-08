@@ -1186,3 +1186,9 @@ Ans- Define gr.Column() within a gr.Row() context to arrange columns vertically 
 
 (----------------------------------------------------------------------)
 
+205- How do you set a component to take up the full width of the browser in Gradio?
+
+Ans- Use gr.Blocks(fill_width=True) to remove side padding and make the app take the full width.
+
+(----------------------------------------------------------------------)
+
