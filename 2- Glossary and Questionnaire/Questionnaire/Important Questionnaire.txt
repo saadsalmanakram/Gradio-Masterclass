@@ -1300,4 +1300,10 @@ Ans- It is used as input to get the current state and as output to return the up
 
 (----------------------------------------------------------------------)
 
+224- How does the Add Items button interact with the gr.State object?
+
+Ans- The Add Items button triggers the add_items function, which updates the gr.State object with new items and reflects the changes in the cart.
+
+(----------------------------------------------------------------------)
+
 
