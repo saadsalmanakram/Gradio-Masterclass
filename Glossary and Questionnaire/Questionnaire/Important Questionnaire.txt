@@ -994,6 +994,12 @@ Ans- Demos where the input and output components are the same, typically used in
 
 (----------------------------------------------------------------------)
 
+173- Can Gradio handle demos that do not take inputs?
+
+Ans- Yes, Output-only demos can be built by setting inputs=None.
+
+(----------------------------------------------------------------------)
+
 
 
 
