@@ -976,6 +976,12 @@ Ans- A demo with separate inputs and outputs, such as an image classifier or spe
 
 (----------------------------------------------------------------------)
 
+170- How do Output-only Gradio demos function?
+
+Ans- They do not require any inputs but produce an output, such as unconditional image generation models.
+
+(----------------------------------------------------------------------)
+
 
 
 
