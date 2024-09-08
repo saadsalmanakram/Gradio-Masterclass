@@ -928,6 +928,12 @@ Ans- Set the live=True parameter in the gr.Interface.
 
 (----------------------------------------------------------------------)
 
+162- What happens when live=True is used in a Gradio interface?
+
+Ans- The interface recalculates and refreshes automatically as soon as the user input changes.
+
+(----------------------------------------------------------------------)
+
 
 
 
