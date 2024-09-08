@@ -1348,3 +1348,9 @@ Ans- Define the event listeners inside the @gr.render function to ensure they ar
 
 (----------------------------------------------------------------------)
 
+232- Why is it important to use set or dictionary notation for inputs in cases with many components?
+
+Ans- It simplifies managing and querying multiple components and their values, especially when dealing with large and complex input sets.
+
+(-----------------------------------------------------------------------)
+
