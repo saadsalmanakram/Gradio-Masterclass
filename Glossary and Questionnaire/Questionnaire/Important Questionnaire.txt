@@ -832,6 +832,12 @@ Ans- The default value of session state is None, but you can set an initial valu
 
 (----------------------------------------------------------------------)
 
+146- When would you prefer session state over global state?
+
+Ans- When you need to maintain user-specific data, like chat history, that should not be shared among users.
+
+(----------------------------------------------------------------------)
+
 
 
 
