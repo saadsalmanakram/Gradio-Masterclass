@@ -1294,15 +1294,3 @@ Ans- Create a gr.State object, use it as an input and output in the event listen
 
 (----------------------------------------------------------------------)
 
-223- How is the cart updated in the provided example?
-
-Ans- The cart is updated by adding new items to the existing cart in the add_items function, which returns the updated cart.
-
-(----------------------------------------------------------------------)
-
-224- In the provided example, how is the cart size calculated?
-
-Ans- The cart size is calculated by passing the cart as input to a function that returns its length.
-
-(----------------------------------------------------------------------)
-
