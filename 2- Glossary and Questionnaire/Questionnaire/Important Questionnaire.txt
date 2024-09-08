@@ -1838,4 +1838,10 @@ Ans- The default value is "127.0.0.1". To change it, set GRADIO_SERVER_NAME to "
 
 (-----------------------------------------------------------------------)
 
+313- How do you enable or disable analytics in Gradio using an environment variable?
+
+Ans- Use GRADIO_ANALYTICS_ENABLED with values "True" or "False". Default is "True".
+
+(-----------------------------------------------------------------------)
+
 
