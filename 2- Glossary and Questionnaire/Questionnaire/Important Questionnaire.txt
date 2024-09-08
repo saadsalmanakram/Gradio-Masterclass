@@ -1258,3 +1258,14 @@ Ans- State is managed using gr.State to store and persist data across function c
 
 (----------------------------------------------------------------------)
 
+217- Can gr.State be used to share data between different users?
+
+Ans- No, gr.State data is not shared between different users; it is specific to the session of the individual user.
+
+(----------------------------------------------------------------------)
+
+218- How is global state implemented in Gradio Blocks?
+
+Ans- Global state is implemented by defining variables outside of function calls, which are shared across all users.
+
+(----------------------------------------------------------------------)
