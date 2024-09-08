@@ -1390,3 +1390,9 @@ Ans- It causes the Textbox to update based on the timer's intervals.
 
 (-----------------------------------------------------------------------)
 
+239- How do you update a component's value periodically using gr.Timer?
+
+Ans- Set the component's every parameter to timer or use timer.tick() to call a function that updates the component.
+
+(-----------------------------------------------------------------------)
+
