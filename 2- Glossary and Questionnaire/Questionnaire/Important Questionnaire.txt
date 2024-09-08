@@ -1826,4 +1826,10 @@ Ans- It specifies the port on which the Gradio app will run. Default is 7860.
 
 (-----------------------------------------------------------------------)
 
+311- How can you configure Gradio to run on a different port using an environment variable?
+
+Ans- Set GRADIO_SERVER_PORT to the desired port number, e.g., export GRADIO_SERVER_PORT=8000.
+
+(-----------------------------------------------------------------------)
+
 
