@@ -724,6 +724,11 @@ Ans- It allows users to flag inputs with unexpected or erroneous outputs for rev
 
 (---------------------------------------------------------------------)
 
+128- Where are flagged inputs stored when using the flagging_dir argument?
+
+Ans- They are stored in a specified directory, with logs saved in a CSV file.
+
+(---------------------------------------------------------------------)
 
 
 
