@@ -1478,3 +1478,9 @@ Ans- Gradio Blocks is a framework for creating interactive web interfaces for ma
 
 (-----------------------------------------------------------------------)
 
+253- What does the api_name parameter do in Gradio?
+
+Ans- The api_name parameter assigns a unique name to a function within the Gradio app, allowing you to specify which function to call.
+
+(-----------------------------------------------------------------------)
+
