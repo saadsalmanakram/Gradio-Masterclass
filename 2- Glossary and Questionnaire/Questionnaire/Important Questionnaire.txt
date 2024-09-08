@@ -1688,3 +1688,9 @@ Ans- gr.Warning() issues a warning and continues execution, while gr.Error() rai
 
 (-----------------------------------------------------------------------)
 
+288- What is the purpose of gr.Info("custom message")?
+
+Ans- It displays an informational message to the user without affecting the execution flow.
+
+(-----------------------------------------------------------------------)
+
