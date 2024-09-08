@@ -952,6 +952,13 @@ Ans- It enables the interface to automatically refresh when input changes, provi
 
 (----------------------------------------------------------------------)
 
+166- Why is live=True useful in Gradio demos?
+
+Ans- It allows for instant recalculations and provides a dynamic user experience without needing a submit action.
+
+(----------------------------------------------------------------------)
+
+
 
 
 
