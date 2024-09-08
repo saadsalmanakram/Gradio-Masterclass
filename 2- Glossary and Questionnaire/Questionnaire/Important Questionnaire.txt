@@ -1616,3 +1616,9 @@ Ans- A generator function yields a series of values over time using the yield ke
 
 (-----------------------------------------------------------------------)
 
+276- How can you stream outputs in a Gradio interface?
+
+Ans- By using a Python generator function that yields intermediate values, which are streamed one by one.
+
+(-----------------------------------------------------------------------)
+
