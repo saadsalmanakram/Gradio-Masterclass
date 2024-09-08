@@ -664,6 +664,12 @@ Ans- Examples help users understand how to interact with the system by providing
 
 (---------------------------------------------------------------------)
 
+118- How can you provide examples for a system that accepts multiple inputs?
+
+Ans- You can provide a list of examples where each sublist contains values for each input field in the expected order.
+
+(---------------------------------------------------------------------)
+
 
 
 
