@@ -1018,6 +1018,12 @@ Ans- A Standard demo, since it has distinct inputs (text) and outputs (image).
 
 (----------------------------------------------------------------------)
 
+177- What Gradio component would you use for unconditional GAN image generation?
+
+Ans- An Output-only demo, as it generates images without any input.
+
+(----------------------------------------------------------------------)
+
 
 
 
