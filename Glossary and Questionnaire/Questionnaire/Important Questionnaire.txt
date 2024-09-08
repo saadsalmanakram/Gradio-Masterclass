@@ -892,6 +892,12 @@ Ans- It allows for continuous real-time data processing, sending data to the bac
 
 (----------------------------------------------------------------------)
 
+156- Can you stream data to both input and output components in Gradio?
+
+Ans- Yes, both input and output components can be set to streaming mode.
+
+(----------------------------------------------------------------------)
+
 
 
 
