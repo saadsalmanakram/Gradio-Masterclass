@@ -1342,3 +1342,9 @@ Ans- Event listeners created inside a @gr.render function are reattached with ea
 
 (----------------------------------------------------------------------)
 
+231- How can you ensure event listeners work with dynamically rendered components?
+
+Ans- Define the event listeners inside the @gr.render function to ensure they are correctly attached.
+
+(----------------------------------------------------------------------)
+
