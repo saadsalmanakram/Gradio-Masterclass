@@ -784,6 +784,13 @@ Ans- It allows demos to modify behavior based on previous interactions, persisti
 
 (---------------------------------------------------------------------)
 
+138- What is the difference between global state and session state in Gradio?
+
+Ans- Global state is shared among all users, while session state is specific to individual users and page sessions.
+
+(---------------------------------------------------------------------)
+
+
 
 
 
