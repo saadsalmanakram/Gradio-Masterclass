@@ -1880,3 +1880,9 @@ Ans- Use GRADIO_ALLOWED_PATHS to specify absolute filepaths or directories. Mult
 
 (-----------------------------------------------------------------------)
 
+320- What does the GRADIO_BLOCKED_PATHS environment variable do?
+
+Ans- It sets filepaths or directories that Gradio is not allowed to serve, overriding GRADIO_ALLOWED_PATHS and other defaults.
+
+(-----------------------------------------------------------------------)
+
