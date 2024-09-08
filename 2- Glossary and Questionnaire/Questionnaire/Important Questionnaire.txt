@@ -1550,3 +1550,9 @@ Ans- By setting the concurrency_count parameter to the desired number of concurr
 
 (-----------------------------------------------------------------------)
 
+265- What does setting concurrency_count=None do?
+
+Ans- It allows an unlimited number of requests to be processed simultaneously.
+
+(-----------------------------------------------------------------------)
+
