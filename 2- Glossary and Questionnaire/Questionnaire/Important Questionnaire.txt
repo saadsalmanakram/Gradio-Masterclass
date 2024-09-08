@@ -1904,3 +1904,9 @@ Ans- Default is "127.0.0.1". It defines IP addresses trusted to forward traffic 
 
 (-----------------------------------------------------------------------)
 
+324- What is gr.State in Gradio and how does it handle resource cleanup?
+
+Ans- gr.State is used to manage and persist state across interactions. It is automatically deleted after 60 minutes if the user closes their browser, but you can customize this behavior with delete_callback and time_to_live parameters.
+
+(-----------------------------------------------------------------------)
+
