@@ -1180,3 +1180,9 @@ Ans- The component will not expand to take up any space in the Row.
 
 (----------------------------------------------------------------------)
 
+204- How do you nest Columns within Rows in Gradio?
+
+Ans- Define gr.Column() within a gr.Row() context to arrange columns vertically within a row.
+
+(----------------------------------------------------------------------)
+
