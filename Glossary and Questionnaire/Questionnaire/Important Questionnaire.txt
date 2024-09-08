@@ -814,6 +814,11 @@ Ans- Session state allows data to persist across multiple interactions within th
 
 (---------------------------------------------------------------------)
 
+143- How do you implement session state in Gradio?
+
+Ans- You pass an additional state parameter into the function, update the state, and return it, along with the input and output states in the interface.
+
+(---------------------------------------------------------------------)
 
 
 
