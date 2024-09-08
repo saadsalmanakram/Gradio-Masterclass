@@ -1916,3 +1916,9 @@ Ans- You can use the delete_callback function to handle cleanup when the state i
 
 (-----------------------------------------------------------------------)
 
+326- What does the delete_cache parameter do in Gradio?
+
+Ans- The delete_cache parameter specifies how often (frequency) and after how long (age) temporary files in the cache directory should be deleted.
+
+(-----------------------------------------------------------------------)
+
