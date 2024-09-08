@@ -1669,3 +1669,9 @@ Ans- Gradio can rerun models based on dynamic input changes, such as generating 
 Ans- It defines a slider input ranging from 1 to 10, with a default value of 3 and a step size of 1.
 
 (-----------------------------------------------------------------------)
+
+285- How does Gradio display intermediate results?
+
+Ans- Gradio updates the output panel with each yielded value from the generator function in real time.
+
+(-----------------------------------------------------------------------)
