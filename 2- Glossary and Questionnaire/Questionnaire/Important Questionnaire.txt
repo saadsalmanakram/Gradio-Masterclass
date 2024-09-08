@@ -1360,3 +1360,9 @@ Ans- Include demo.load in the triggers argument to ensure the initial render occ
 
 (-----------------------------------------------------------------------)
 
+234- How can you maintain component values between re-renders in complex apps?
+
+Ans- Use the key argument for each component to preserve their state and values across renders.
+
+(-----------------------------------------------------------------------)
+
