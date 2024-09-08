@@ -922,6 +922,12 @@ Ans- Reactive interfaces automatically update based on user input without needin
 
 (----------------------------------------------------------------------)
 
+161- How do you enable continuous updates in a Gradio interface?
+
+Ans- Set the live=True parameter in the gr.Interface.
+
+(----------------------------------------------------------------------)
+
 
 
 
