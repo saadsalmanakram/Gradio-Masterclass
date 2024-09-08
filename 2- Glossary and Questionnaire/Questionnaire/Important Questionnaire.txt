@@ -1508,3 +1508,9 @@ Ans- It allows you to reuse functionality without tightly coupling your app to t
 
 (-----------------------------------------------------------------------)
 
+258- How can you control which function in a Gradio app to use when there are multiple functions defined?
+
+Ans- By specifying the api_name or fn_index parameters in the function call.
+
+(-----------------------------------------------------------------------)
+
