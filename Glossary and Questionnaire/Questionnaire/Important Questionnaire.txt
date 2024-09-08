@@ -988,6 +988,12 @@ Ans- A demo that takes in inputs but does not produce an output, like a tool for
 
 (----------------------------------------------------------------------)
 
+172- What are Unified Gradio demos?
+
+Ans- Demos where the input and output components are the same, typically used in tasks like text autocomplete.
+
+(----------------------------------------------------------------------)
+
 
 
 
