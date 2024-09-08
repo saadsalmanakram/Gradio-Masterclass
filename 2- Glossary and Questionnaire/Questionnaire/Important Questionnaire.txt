@@ -1946,3 +1946,9 @@ Ans- The delete_directory function deletes the user-specific directory created d
 
 (------------------------------------------------------------------------)
 
+331- How does the generate_random_img function utilize user-specific directories?
+
+Ans- It saves generated images to a directory unique to the user based on their session hash, which is later cleaned up using delete_directory.
+
+(------------------------------------------------------------------------)
+
