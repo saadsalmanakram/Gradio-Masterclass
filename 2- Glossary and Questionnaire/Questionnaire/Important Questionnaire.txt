@@ -1628,3 +1628,15 @@ Ans- The yield statement returns a value from a generator without terminating th
 
 (-----------------------------------------------------------------------)
 
+278- How do you implement a generator function in a loop?
+
+Ans- Place the yield statement inside a loop to generate values sequentially.
+
+(-----------------------------------------------------------------------)
+
+279- How do you stream an image generation process using Gradio?
+
+Ans- Supply a generator function to Gradio, which yields images at each step of generation.
+
+(-----------------------------------------------------------------------)
+
