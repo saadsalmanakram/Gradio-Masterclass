@@ -1640,3 +1640,9 @@ Ans- Supply a generator function to Gradio, which yields images at each step of 
 
 (-----------------------------------------------------------------------)
 
+280- How do you use a generator function with Gradio’s gr.Interface?
+
+Ans- Pass the generator function as the fn parameter in gr.Interface, and Gradio will stream the outputs yielded by the generator.
+
+(-----------------------------------------------------------------------)
+
