@@ -1862,4 +1862,9 @@ Ans- It specifies the directory where Gradio stores temporary files. Set it usin
 
 (-----------------------------------------------------------------------)
 
+317- How do you set the root path for a Gradio application when running behind a reverse proxy?
+
+Ans- Use GRADIO_ROOT_PATH to specify the root path, e.g., export GRADIO_ROOT_PATH="/myapp".
+
+(-----------------------------------------------------------------------)
 
