@@ -1796,3 +1796,10 @@ Ans- They enable queuing and parallel processing of multiple requests, potential
 
 (-----------------------------------------------------------------------)
 
+306- What is the purpose of the batch=True argument in Gradio's Interface or Blocks class?
+
+Ans- It enables the processing of inputs in batches, allowing for parallel execution of multiple requests.
+
+(-----------------------------------------------------------------------)
+
+
