@@ -1682,3 +1682,9 @@ Ans- Use gr.Warning() when you want to notify the user of a potential issue with
 
 (-----------------------------------------------------------------------)
 
+287- What is the difference between gr.Warning() and gr.Error()?
+
+Ans- gr.Warning() issues a warning and continues execution, while gr.Error() raises an exception and halts the process.
+
+(-----------------------------------------------------------------------)
+
