@@ -1556,3 +1556,9 @@ Ans- It allows an unlimited number of requests to be processed simultaneously.
 
 (-----------------------------------------------------------------------)
 
+266- What is concurrency_id used for in Gradio?
+
+Ans- It allows multiple event listeners to share the same queue by assigning the same concurrency ID.
+
+(-----------------------------------------------------------------------)
+
