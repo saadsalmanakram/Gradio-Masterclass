@@ -1036,6 +1036,12 @@ Ans- A Unified demo has the same component for both input and output, while a St
 
 (----------------------------------------------------------------------)
 
+180- How does the interface change for Output-only demos in Gradio?
+
+Ans- The UI only shows output elements and no input fields, suitable for models like unconditional image generation.
+
+(----------------------------------------------------------------------)
+
 
 
 
