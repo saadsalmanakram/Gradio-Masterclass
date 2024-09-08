@@ -1414,3 +1414,9 @@ Ans- Prefix the file path with file=, e.g., css=".gradio-container {background: 
 
 (-----------------------------------------------------------------------)
 
+243- How can you ensure that your custom CSS is compatible across different Gradio versions?
+
+Ans- Use specific elem_id and elem_classes attributes to target HTML elements, minimizing reliance on built-in class names that might change.
+
+(-----------------------------------------------------------------------)
+
