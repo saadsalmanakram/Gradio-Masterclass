@@ -1030,6 +1030,12 @@ Ans- Set both the inputs and outputs parameters in gr.Interface() with separate 
 
 (----------------------------------------------------------------------)
 
+179- What differentiates a Unified demo from a Standard demo in Gradio?
+
+Ans- A Unified demo has the same component for both input and output, while a Standard demo uses separate components.
+
+(----------------------------------------------------------------------)
+
 
 
 
