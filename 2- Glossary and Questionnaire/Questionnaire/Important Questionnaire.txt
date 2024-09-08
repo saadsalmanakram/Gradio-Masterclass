@@ -1574,3 +1574,9 @@ Ans- By setting the same concurrency_id for those listeners and specifying the c
 
 (-----------------------------------------------------------------------)
 
+269- What happens if multiple event listeners share a queue?
+
+Ans- They will process requests from the same queue, with the total number of concurrent requests controlled by concurrency_count.
+
+(-----------------------------------------------------------------------)
+
