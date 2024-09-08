@@ -1150,3 +1150,16 @@ Ans- Use the gr.on() method and pass a list of triggers to execute the same func
 
 (----------------------------------------------------------------------)
 
+199- What layout model does Gradio use by default for arranging components in Blocks?
+
+Ans- Gradio uses the flexbox model by default.
+
+(----------------------------------------------------------------------)
+
+200- How can you display components horizontally in Gradio?
+
+Ans- Use the gr.Row() context to arrange components horizontally.
+
+(----------------------------------------------------------------------)
+
+
