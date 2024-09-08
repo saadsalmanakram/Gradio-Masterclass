@@ -1096,3 +1096,9 @@ Ans- By using the interactive=True or interactive=False argument when defining a
 
 (----------------------------------------------------------------------)
 
+190- What is the difference between click() and change() event listeners in Gradio?
+
+Ans- click() is triggered by a button click, while change() is triggered when a component's value changes.
+
+(----------------------------------------------------------------------)
+
