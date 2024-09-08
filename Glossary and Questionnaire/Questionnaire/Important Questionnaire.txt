@@ -850,6 +850,12 @@ Ans- Global state can lead to data being unintentionally shared or mixed between
 
 (----------------------------------------------------------------------)
 
+149- What is a real-world use case for session state in Gradio?
+
+Ans- Maintaining personalized data such as user input history across different interactions on the same page.
+
+(----------------------------------------------------------------------)
+
 
 
 
