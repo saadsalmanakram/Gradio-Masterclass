@@ -1651,3 +1651,10 @@ Ans- Pass the generator function as the fn parameter in gr.Interface, and Gradio
 Ans- The input is a slider that controls the number of steps, and the output is an image displayed after each step.
 
 (-----------------------------------------------------------------------)
+
+282- What happens when the generator completes in Gradio?
+
+Ans- The final output is shown, and in this case, a solid orange image is displayed as the final result.
+
+(-----------------------------------------------------------------------)
+
