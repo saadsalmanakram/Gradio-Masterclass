@@ -1120,3 +1120,9 @@ Ans- Inputs can be passed either as a list of values or as a dictionary keyed by
 
 (----------------------------------------------------------------------)
 
+194- How can multiple outputs be returned from a function in Gradio?
+
+Ans- Multiple outputs can be returned as a list or as a dictionary keyed by the output component.
+
+(----------------------------------------------------------------------)
+
