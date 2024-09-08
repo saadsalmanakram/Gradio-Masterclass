@@ -700,6 +700,12 @@ Ans- You can exclude certain input fields from examples by leaving them blank or
 
 (---------------------------------------------------------------------)
 
+124- How can examples be cached for faster access?
+
+Ans- By enabling caching, the system preloads and stores example outputs so users can access them quickly without running the function again.
+
+(---------------------------------------------------------------------)
+
 
 
 
