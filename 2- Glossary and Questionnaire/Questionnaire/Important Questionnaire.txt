@@ -1580,3 +1580,9 @@ Ans- They will process requests from the same queue, with the total number of co
 
 (-----------------------------------------------------------------------)
 
+270- How does the queuing system help in scaling Gradio apps?
+
+Ans- It manages concurrent users by queuing requests and processing them without overloading the system.
+
+(-----------------------------------------------------------------------)
+
