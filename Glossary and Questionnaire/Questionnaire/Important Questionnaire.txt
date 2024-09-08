@@ -934,6 +934,17 @@ Ans- The interface recalculates and refreshes automatically as soon as the user 
 
 (----------------------------------------------------------------------)
 
+163- What is the purpose of omitting the submit button in a reactive interface?
+
+Ans- The interface automatically submits and updates when input changes, making a submit button unnecessary.
+
+(----------------------------------------------------------------------)
+
+164- How does gradio.Interface() handle operations automatically in live mode?
+
+Ans- It continuously evaluates the function based on updated inputs without manual submission.
+
+(----------------------------------------------------------------------)
 
 
 
