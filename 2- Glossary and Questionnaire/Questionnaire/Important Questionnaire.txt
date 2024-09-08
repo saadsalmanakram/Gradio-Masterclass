@@ -1742,3 +1742,9 @@ Ans- Call the Progress instance directly with a float value between 0 and 1.
 
 (-----------------------------------------------------------------------)
 
+297- What does the tqdm() method of Gradio's Progress instance do?
+
+Ans- It tracks and updates the progress automatically for an iterable.
+
+(-----------------------------------------------------------------------)
+
