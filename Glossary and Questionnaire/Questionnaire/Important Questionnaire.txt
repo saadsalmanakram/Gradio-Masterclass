@@ -742,6 +742,11 @@ Ans- The CSV logs inputs, operations, outputs, and optionally, the reason for fl
 
 (---------------------------------------------------------------------)
 
+131- How can users specify the reason for flagging an input?
+
+Ans- By providing a list of strings to the flagging_options argument, which users select from when flagging.
+
+(---------------------------------------------------------------------)
 
 
 
