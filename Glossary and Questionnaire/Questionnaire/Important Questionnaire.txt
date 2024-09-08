@@ -772,6 +772,12 @@ Ans- The flagging_options argument lets users specify reasons for flagging, whic
 
 (---------------------------------------------------------------------)
 
+136- How does flagging work with file-based components like Image or Audio?
+
+Ans- File-based data is saved in separate folders within the flagged directory, and file paths are logged in the CSV.
+
+(---------------------------------------------------------------------)
+
 
 
 
