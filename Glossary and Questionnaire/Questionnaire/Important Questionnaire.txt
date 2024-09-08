@@ -1006,6 +1006,12 @@ Ans- Set the outputs parameter to None in the gr.Interface() method.
 
 (----------------------------------------------------------------------)
 
+175- What is an example of a Unified Gradio demo?
+
+Ans- A text generation model where the input text box is used as both the input and output.
+
+(----------------------------------------------------------------------)
+
 
 
 
