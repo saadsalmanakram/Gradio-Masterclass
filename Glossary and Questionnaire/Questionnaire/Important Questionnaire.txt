@@ -1144,3 +1144,9 @@ Ans- .then() runs regardless of errors in the previous event, while .success() r
 
 (----------------------------------------------------------------------)
 
+198- How do you bind multiple triggers to the same function in Gradio?
+
+Ans- Use the gr.on() method and pass a list of triggers to execute the same function for different events.
+
+(----------------------------------------------------------------------)
+
