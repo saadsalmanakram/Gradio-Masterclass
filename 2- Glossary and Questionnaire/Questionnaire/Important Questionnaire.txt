@@ -1808,4 +1808,10 @@ Ans- By using the max_batch_size argument, which determines the maximum number o
 
 (-----------------------------------------------------------------------)
 
+308- How does enabling batching affect the processing of incoming requests in Gradio?
+
+Ans- It allows the Gradio server to group multiple requests into a batch and process them simultaneously, improving efficiency.
+
+(-----------------------------------------------------------------------)
+
 
