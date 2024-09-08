@@ -1384,3 +1384,9 @@ Ans- It triggers a function periodically based on the timer's interval.
 
 (-----------------------------------------------------------------------)
 
+238- What does the every=timer parameter do in the Textbox component?
+
+Ans- It causes the Textbox to update based on the timer's intervals.
+
+(-----------------------------------------------------------------------)
+
