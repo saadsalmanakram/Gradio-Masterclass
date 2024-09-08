@@ -1294,3 +1294,9 @@ Ans- Create a gr.State object, use it as an input and output in the event listen
 
 (----------------------------------------------------------------------)
 
+223- How is the cart updated in the provided example?
+
+Ans- The cart is updated by adding new items to the existing cart in the add_items function, which returns the updated cart.
+
+(----------------------------------------------------------------------)
+
