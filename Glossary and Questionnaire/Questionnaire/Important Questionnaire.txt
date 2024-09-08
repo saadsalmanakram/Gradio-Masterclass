@@ -910,6 +910,12 @@ Ans- The audio data is streamed piece-wise, and the output combines them into a 
 
 (----------------------------------------------------------------------)
 
+159- How does Gradio handle streaming data in functions like image flipping?
+
+Ans- The function runs continuously on the streamed data from sources like a webcam.
+
+(----------------------------------------------------------------------)
+
 
 
 
