@@ -1850,4 +1850,16 @@ Ans- It enables or disables debug mode in Gradio, where 1 enables it and 0 disab
 
 (-----------------------------------------------------------------------)
 
+315- How can you control the flagging feature in Gradio through environment variables?
+
+Ans- Set GRADIO_ALLOW_FLAGGING to "never", "manual", or "auto" depending on whether you want to allow flagging and how.
+
+(-----------------------------------------------------------------------)
+
+316- What does GRADIO_TEMP_DIR specify and how can it be set?
+
+Ans- It specifies the directory where Gradio stores temporary files. Set it using export GRADIO_TEMP_DIR="/path/to/temp".
+
+(-----------------------------------------------------------------------)
+
 
