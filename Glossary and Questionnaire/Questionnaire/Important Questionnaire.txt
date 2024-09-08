@@ -868,6 +868,12 @@ Ans- The ChatInterface abstraction manages user state automatically.
 
 (----------------------------------------------------------------------)
 
+152- What are streaming components in Gradio?
+
+Ans- Streaming components continuously send data to the backend and rerun the interface function during data capture.
+
+(----------------------------------------------------------------------)
+
 
 
 
