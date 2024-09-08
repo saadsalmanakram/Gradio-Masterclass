@@ -1024,6 +1024,12 @@ Ans- An Output-only demo, as it generates images without any input.
 
 (----------------------------------------------------------------------)
 
+178- How do you create a Standard demo in Gradio?
+
+Ans- Set both the inputs and outputs parameters in gr.Interface() with separate components.
+
+(----------------------------------------------------------------------)
+
 
 
 
