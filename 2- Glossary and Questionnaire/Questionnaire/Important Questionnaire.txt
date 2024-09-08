@@ -1282,3 +1282,9 @@ Ans- gr.State() creates a stateful object to store data that persists across mul
 
 (----------------------------------------------------------------------)
 
+221- How do you initialize a gr.State object with a default value?
+
+Ans- By passing the default value as an argument when creating the gr.State object, e.g., gr.State([]).
+
+(----------------------------------------------------------------------)
+
