@@ -670,6 +670,12 @@ Ans- You can provide a list of examples where each sublist contains values for e
 
 (---------------------------------------------------------------------)
 
+119- What if the system only has one input field?
+
+Ans- You can provide examples as a simple list instead of using lists of lists.
+
+(---------------------------------------------------------------------)
+
 
 
 
