@@ -1958,3 +1958,9 @@ Ans- Improper resource cleanup can lead to excessive RAM or disk usage, potentia
 
 (------------------------------------------------------------------------)
 
+333- How can you test if resource cleanup is working correctly in a Gradio app?
+
+Ans- You can monitor disk usage, check cache and state directories, and observe if resources are being deleted according to the specified cleanup parameters and events.
+
+(------------------------------------------------------------------------)
+
