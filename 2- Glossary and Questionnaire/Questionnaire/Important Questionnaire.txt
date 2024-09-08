@@ -1192,3 +1192,9 @@ Ans- Use gr.Blocks(fill_width=True) to remove side padding and make the app take
 
 (----------------------------------------------------------------------)
 
+206- How can you make components in a Gradio app expand to fill the browser height?
+
+Ans- Use gr.Blocks(fill_height=True) and apply the scale argument to components.
+
+(----------------------------------------------------------------------)
+
