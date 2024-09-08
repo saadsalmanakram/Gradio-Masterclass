@@ -760,6 +760,12 @@ Ans- It lists inputs, operations, outputs, and optionally, the reason for flaggi
 
 (---------------------------------------------------------------------)
 
+134- Can you control how flagged data is recorded? If so, how?
+
+Ans- Yes, by specifying the flagging_dir argument for storing logs and flagging_options for reasons.
+
+(---------------------------------------------------------------------)
+
 
 
 
