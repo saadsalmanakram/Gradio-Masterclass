@@ -1484,3 +1484,9 @@ Ans- The api_name parameter assigns a unique name to a function within the Gradi
 
 (-----------------------------------------------------------------------)
 
+254- How do you load and use a Gradio app hosted on Hugging Face Spaces?
+
+Ans- Use gr.load(name="spaces/username/app_name") to load the app, and then call it as a function.
+
+(-----------------------------------------------------------------------)
+
