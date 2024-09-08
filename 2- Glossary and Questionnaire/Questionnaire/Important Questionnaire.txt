@@ -1712,3 +1712,9 @@ Ans- Both continue execution, but they differ in message color for informational
 
 (-----------------------------------------------------------------------)
 
+292- Why is gr.Error() raised instead of called like gr.Info()?
+
+Ans- gr.Error() is an exception, which needs to be raised to halt execution.
+
+(-----------------------------------------------------------------------)
+
