@@ -1312,3 +1312,9 @@ Ans- By specifying the input components in the inputs argument of the @gr.render
 
 (----------------------------------------------------------------------)
 
+226- What happens when you change the inputs of a @gr.render function?
+
+Ans- The function re-runs and replaces the previously rendered components with the new ones.
+
+(----------------------------------------------------------------------)
+
