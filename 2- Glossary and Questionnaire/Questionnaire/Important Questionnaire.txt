@@ -1898,3 +1898,9 @@ Ans- Add the variables in the .env file, e.g., GRADIO_SERVER_PORT=8000 and use a
 
 (-----------------------------------------------------------------------)
 
+323- What is the default value for FORWARDED_ALLOW_IPS and what is its significance?
+
+Ans- Default is "127.0.0.1". It defines IP addresses trusted to forward traffic to the application, affecting how the client's IP is determined.
+
+(-----------------------------------------------------------------------)
+
