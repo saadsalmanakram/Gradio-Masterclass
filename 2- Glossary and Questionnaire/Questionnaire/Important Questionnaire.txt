@@ -1496,3 +1496,15 @@ Ans- The fn_index parameter specifies the index of the function to call if the G
 
 (-----------------------------------------------------------------------)
 
+256- How do you specify which function to use if an app has more than one function?
+
+Ans- Use either the api_name or fn_index parameter to indicate which function to call.
+
+(-----------------------------------------------------------------------)
+
+257- What is the advantage of treating Gradio apps like functions in your own app?
+
+Ans- It allows you to reuse functionality without tightly coupling your app to the source code of the other app.
+
+(-----------------------------------------------------------------------)
+
