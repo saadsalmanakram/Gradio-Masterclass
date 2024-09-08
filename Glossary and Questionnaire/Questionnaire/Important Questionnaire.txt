@@ -1126,3 +1126,9 @@ Ans- Multiple outputs can be returned as a list or as a dictionary keyed by the 
 
 (----------------------------------------------------------------------)
 
+195- What is the purpose of returning a component configuration in a Gradio event listener?
+
+Ans- Returning a component configuration allows updating properties such as visibility or lines of a component dynamically.
+
+(----------------------------------------------------------------------)
+
