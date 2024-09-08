@@ -1210,3 +1210,9 @@ Ans- Use the with gr.Tab('tab_name'): context to define components for each tab.
 
 (----------------------------------------------------------------------)
 
+209- What is the purpose of gr.Accordion in Gradio?
+
+Ans- gr.Accordion is used to create collapsible sections that can be toggled open or closed.
+
+(----------------------------------------------------------------------)
+
