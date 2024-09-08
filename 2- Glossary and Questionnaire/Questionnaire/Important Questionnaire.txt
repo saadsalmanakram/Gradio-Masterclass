@@ -1910,3 +1910,9 @@ Ans- gr.State is used to manage and persist state across interactions. It is aut
 
 (-----------------------------------------------------------------------)
 
+325- How can you customize the cleanup behavior of gr.State variables?
+
+Ans- You can use the delete_callback function to handle cleanup when the state is deleted, and time_to_live to set how long the state should be kept before being deleted.
+
+(-----------------------------------------------------------------------)
+
