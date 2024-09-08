@@ -718,6 +718,12 @@ Ans- You need to clear the cache and rebuild it, as cached data will not update 
 
 (---------------------------------------------------------------------)
 
+127- What is the purpose of the "Flag" button in an interface?
+
+Ans- It allows users to flag inputs with unexpected or erroneous outputs for review.
+
+(---------------------------------------------------------------------)
+
 
 
 
