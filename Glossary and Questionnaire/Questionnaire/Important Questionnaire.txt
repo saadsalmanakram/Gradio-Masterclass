@@ -676,6 +676,12 @@ Ans- You can provide examples as a simple list instead of using lists of lists.
 
 (---------------------------------------------------------------------)
 
+120- How can you load examples from a directory for a system?
+
+Ans- By specifying the path to a directory with the necessary example data, or by using a log file that maps inputs to their corresponding values.
+
+(---------------------------------------------------------------------)
+
 
 
 
