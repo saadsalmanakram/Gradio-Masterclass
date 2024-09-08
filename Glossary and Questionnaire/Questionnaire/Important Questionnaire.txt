@@ -862,6 +862,12 @@ Ans- The session state is reset and does not persist between page reloads or acr
 
 (----------------------------------------------------------------------)
 
+151- What class can manage user state automatically for building chatbots in Gradio?
+
+Ans- The ChatInterface abstraction manages user state automatically.
+
+(----------------------------------------------------------------------)
+
 
 
 
