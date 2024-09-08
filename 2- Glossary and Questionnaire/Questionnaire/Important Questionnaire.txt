@@ -1228,3 +1228,9 @@ Ans- Define the component outside of the gr.Blocks() scope and use the .render()
 
 (----------------------------------------------------------------------)
 
+212- How do you ensure components within a Column are arranged vertically?
+
+Ans- By default, components in a Column are arranged vertically.
+
+(----------------------------------------------------------------------)
+
