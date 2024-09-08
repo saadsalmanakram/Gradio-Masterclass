@@ -1221,3 +1221,10 @@ Ans- gr.Accordion is used to create collapsible sections that can be toggled ope
 Ans- Use the visible argument to control the visibility of components and layout elements.
 
 (----------------------------------------------------------------------)
+
+211- How can you define a component before rendering it in Gradio?
+
+Ans- Define the component outside of the gr.Blocks() scope and use the .render() method to place it in the UI.
+
+(----------------------------------------------------------------------)
+
