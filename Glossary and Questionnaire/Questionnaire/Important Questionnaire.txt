@@ -874,6 +874,12 @@ Ans- Streaming components continuously send data to the backend and rerun the in
 
 (----------------------------------------------------------------------)
 
+153- How does gr.Audio(source='microphone') behave in live mode?
+
+Ans- It automatically submits data and runs the function after recording stops.
+
+(----------------------------------------------------------------------)
+
 
 
 
