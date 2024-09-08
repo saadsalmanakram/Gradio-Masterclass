@@ -1132,3 +1132,9 @@ Ans- Returning a component configuration allows updating properties such as visi
 
 (----------------------------------------------------------------------)
 
+196- How do you run events consecutively in Gradio?
+
+Ans- Use the .then() method to execute an event after a previous one completes.
+
+(----------------------------------------------------------------------)
+
