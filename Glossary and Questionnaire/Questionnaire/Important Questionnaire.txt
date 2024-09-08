@@ -838,6 +838,12 @@ Ans- When you need to maintain user-specific data, like chat history, that shoul
 
 (----------------------------------------------------------------------)
 
+147- How does Gradio handle multiple session state variables?
+
+Ans- The Interface class supports a single session state variable, but for multiple states, you can use Blocks or ChatInterface.
+
+(----------------------------------------------------------------------)
+
 
 
 
