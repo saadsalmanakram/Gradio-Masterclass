@@ -970,6 +970,12 @@ Ans- Standard demos, Output-only demos, Input-only demos, and Unified demos.
 
 (----------------------------------------------------------------------)
 
+169- What is a Standard Gradio demo?
+
+Ans- A demo with separate inputs and outputs, such as an image classifier or speech-to-text model.
+
+(----------------------------------------------------------------------)
+
 
 
 
