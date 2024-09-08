@@ -856,6 +856,12 @@ Ans- Maintaining personalized data such as user input history across different i
 
 (----------------------------------------------------------------------)
 
+150- How does Gradio session state behave upon page refresh or in a new tab?
+
+Ans- The session state is reset and does not persist between page reloads or across different browser tabs.
+
+(----------------------------------------------------------------------)
+
 
 
 
