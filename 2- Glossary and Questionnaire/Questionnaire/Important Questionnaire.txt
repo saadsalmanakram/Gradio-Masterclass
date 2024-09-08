@@ -1366,3 +1366,9 @@ Ans- Use the key argument for each component to preserve their state and values 
 
 (-----------------------------------------------------------------------)
 
+235- What is the role of gr.Timer in Gradio's gr.Blocks?
+
+Ans- gr.Timer schedules and triggers events at fixed intervals.
+
+(-----------------------------------------------------------------------)
+
