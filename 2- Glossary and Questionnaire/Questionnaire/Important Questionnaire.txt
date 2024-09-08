@@ -1874,4 +1874,9 @@ Ans- It enables sharing of the Gradio app. Default value is "False".
 
 (-----------------------------------------------------------------------)
 
+319- How can you restrict which filepaths Gradio is allowed to serve?
+
+Ans- Use GRADIO_ALLOWED_PATHS to specify absolute filepaths or directories. Multiple paths are separated by commas.
+
+(-----------------------------------------------------------------------)
 
