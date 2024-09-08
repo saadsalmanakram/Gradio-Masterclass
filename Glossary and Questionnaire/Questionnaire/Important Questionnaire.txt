@@ -1138,3 +1138,9 @@ Ans- Use the .then() method to execute an event after a previous one completes.
 
 (----------------------------------------------------------------------)
 
+197- What is the difference between .then() and .success() methods in Gradio?
+
+Ans- .then() runs regardless of errors in the previous event, while .success() runs only if the previous event succeeds.
+
+(----------------------------------------------------------------------)
+
