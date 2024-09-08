@@ -1736,3 +1736,9 @@ Ans- Add a gr.Progress() instance as an argument with a default value in your fu
 
 (-----------------------------------------------------------------------)
 
+296- How do you update progress levels using Gradio's Progress instance?
+
+Ans- Call the Progress instance directly with a float value between 0 and 1.
+
+(-----------------------------------------------------------------------)
+
