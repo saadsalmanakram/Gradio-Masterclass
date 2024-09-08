@@ -1694,3 +1694,9 @@ Ans- It displays an informational message to the user without affecting the exec
 
 (-----------------------------------------------------------------------)
 
+289- Can you continue the process after issuing a gr.Warning()?
+
+Ans- Yes, the process continues after issuing a gr.Warning().
+
+(-----------------------------------------------------------------------)
+
