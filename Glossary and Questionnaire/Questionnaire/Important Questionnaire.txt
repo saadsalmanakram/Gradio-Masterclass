@@ -730,6 +730,13 @@ Ans- They are stored in a specified directory, with logs saved in a CSV file.
 
 (---------------------------------------------------------------------)
 
+129- What happens if the interface uses file data such as images or audio?
+
+Ans- Separate folders will be created to store flagged file data.
+
+(---------------------------------------------------------------------)
+
+
 
 
 
