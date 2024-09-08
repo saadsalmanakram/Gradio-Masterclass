@@ -1598,3 +1598,9 @@ Ans- Yes, by setting concurrency_count=None to allow unlimited simultaneous proc
 
 (-----------------------------------------------------------------------)
 
+273- How do you handle multiple event listeners using the same resource in Gradio?
+
+Ans- Use concurrency_id to group them into the same queue with a shared concurrency limit.
+
+(-----------------------------------------------------------------------)
+
