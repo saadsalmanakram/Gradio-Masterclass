@@ -982,6 +982,12 @@ Ans- They do not require any inputs but produce an output, such as unconditional
 
 (----------------------------------------------------------------------)
 
+171- What is an Input-only Gradio demo?
+
+Ans- A demo that takes in inputs but does not produce an output, like a tool for saving uploaded images to a database.
+
+(----------------------------------------------------------------------)
+
 
 
 
