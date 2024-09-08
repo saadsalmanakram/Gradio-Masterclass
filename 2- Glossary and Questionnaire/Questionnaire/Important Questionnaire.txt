@@ -1610,3 +1610,9 @@ Ans- Set the same concurrency_id for those functions to share a GPU queue and li
 
 (-----------------------------------------------------------------------)
 
+275- What is a generator function in Python?
+
+Ans- A generator function yields a series of values over time using the yield keyword instead of returning a single value.
+
+(-----------------------------------------------------------------------)
+
