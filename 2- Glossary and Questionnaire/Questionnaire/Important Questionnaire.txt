@@ -1234,3 +1234,9 @@ Ans- By default, components in a Column are arranged vertically.
 
 (----------------------------------------------------------------------)
 
+213- What parameter in gr.Row() controls whether elements in the Row have equal height?
+
+Ans- The equal_height parameter controls whether elements in the Row have equal height.
+
+(----------------------------------------------------------------------)
+
