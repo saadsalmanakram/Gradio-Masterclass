@@ -1700,3 +1700,9 @@ Ans- Yes, the process continues after issuing a gr.Warning().
 
 (-----------------------------------------------------------------------)
 
+290- What happens when you call gr.Error()?
+
+Ans- It stops the function and displays the error message.
+
+(-----------------------------------------------------------------------)
+
