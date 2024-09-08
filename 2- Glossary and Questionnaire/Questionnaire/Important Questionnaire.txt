@@ -1198,3 +1198,9 @@ Ans- Use gr.Blocks(fill_height=True) and apply the scale argument to components.
 
 (----------------------------------------------------------------------)
 
+207- How do you specify the dimensions of components in Gradio using CSS units?
+
+Ans- Pass a string with CSS units (like "50vw") to the width or height parameters.
+
+(----------------------------------------------------------------------)
+
