@@ -1102,3 +1102,9 @@ Ans- click() is triggered by a button click, while change() is triggered when a 
 
 (----------------------------------------------------------------------)
 
+191- How do you handle multiple data flows in a Gradio Blocks app?
+
+Ans- You can have multiple buttons or events that connect different components to various data flows.
+
+(----------------------------------------------------------------------)
+
