@@ -1330,3 +1330,9 @@ Ans- By using the triggers argument in the decorator to specify custom event lis
 
 (----------------------------------------------------------------------)
 
+229- What is the role of the key argument in dynamically created components within a @gr.render function?
+
+Ans- It ensures that the values of components are preserved between re-renders.
+
+(----------------------------------------------------------------------)
+
