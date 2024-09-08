@@ -1514,3 +1514,9 @@ Ans- By specifying the api_name or fn_index parameters in the function call.
 
 (-----------------------------------------------------------------------)
 
+259- What does the gr.Examples component do in a Gradio app?
+
+Ans- gr.Examples provides sample input data that users can click to automatically populate the input fields in the interface.
+
+(-----------------------------------------------------------------------)
+
