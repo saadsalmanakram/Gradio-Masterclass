@@ -1934,3 +1934,9 @@ Ans- Blocks.unload() allows you to run custom cleanup functions when a user disc
 
 (-----------------------------------------------------------------------)
 
+329- How does the Blocks.unload() event differ from gr.State automatic cleanup?
+
+Ans- Blocks.unload() runs cleanup functions immediately upon user disconnection, whereas gr.State automatic cleanup occurs after a session timeout or through specified parameters.
+
+(-----------------------------------------------------------------------)
+
