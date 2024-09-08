@@ -1832,4 +1832,10 @@ Ans- Set GRADIO_SERVER_PORT to the desired port number, e.g., export GRADIO_SERV
 
 (-----------------------------------------------------------------------)
 
+312- What is the default value of GRADIO_SERVER_NAME and how can it be changed?
+
+Ans- The default value is "127.0.0.1". To change it, set GRADIO_SERVER_NAME to "0.0.0.0" to make Gradio accessible from any IP address.
+
+(-----------------------------------------------------------------------)
+
 
