@@ -1066,5 +1066,11 @@ Ans- Use the with gr.Blocks() clause to define and add components within the dem
 
 (----------------------------------------------------------------------)
 
+185- What is an event listener in Gradio?
+
+Ans- An event listener defines the data flow and triggers a function based on user interaction (e.g., button click or text change).
+
+(----------------------------------------------------------------------)
+
 
 
