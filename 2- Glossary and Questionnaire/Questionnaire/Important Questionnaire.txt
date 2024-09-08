@@ -1675,3 +1675,10 @@ Ans- It defines a slider input ranging from 1 to 10, with a default value of 3 a
 Ans- It raises an error, halts execution, and displays a custom error message to the user.
 
 (-----------------------------------------------------------------------)
+
+286- When should you use gr.Warning("custom message")?
+
+Ans- Use gr.Warning() when you want to notify the user of a potential issue without stopping the function execution.
+
+(-----------------------------------------------------------------------)
+
