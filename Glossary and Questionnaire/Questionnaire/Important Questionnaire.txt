@@ -658,6 +658,13 @@ Ans- By using the additional_inputs_accordion argument with a string or an insta
 
 (---------------------------------------------------------------------)
 
+117- Why is providing examples important in user interfaces?
+
+Ans- Examples help users understand how to interact with the system by providing sample inputs for testing.
+
+(---------------------------------------------------------------------)
+
+
 
 
 
