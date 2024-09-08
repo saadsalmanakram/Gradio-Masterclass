@@ -1402,4 +1402,10 @@ Ans- The css parameter allows you to add custom CSS styling to your Gradio demo,
 
 (-----------------------------------------------------------------------)
 
+241- How do you apply a custom background image using the css parameter in Gradio?
+
+Ans- You can use the css parameter with a CSS string to set the background image, e.g., css=".gradio-container {background: url('file=clouds.jpg')}".
+
+(-----------------------------------------------------------------------)
+
 
