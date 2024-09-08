@@ -1622,3 +1622,9 @@ Ans- By using a Python generator function that yields intermediate values, which
 
 (-----------------------------------------------------------------------)
 
+277- What does the yield statement do in Python?
+
+Ans- The yield statement returns a value from a generator without terminating the function, allowing it to produce multiple results over time.
+
+(-----------------------------------------------------------------------)
+
