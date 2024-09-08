@@ -1306,3 +1306,9 @@ Ans- It allows for dynamic updates to the UI by re-rendering components based on
 
 (----------------------------------------------------------------------)
 
+225- How do you attach inputs to a function using @gr.render?
+
+Ans- By specifying the input components in the inputs argument of the @gr.render decorator.
+
+(----------------------------------------------------------------------)
+
