@@ -1886,3 +1886,9 @@ Ans- It sets filepaths or directories that Gradio is not allowed to serve, overr
 
 (-----------------------------------------------------------------------)
 
+321- How do you configure trusted IP addresses for forwarding traffic in a Gradio deployment behind a reverse proxy?
+
+Ans- Set FORWARDED_ALLOW_IPS with a comma-separated list of trusted IP addresses.
+
+(-----------------------------------------------------------------------)
+
