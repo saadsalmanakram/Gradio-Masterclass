@@ -1084,3 +1084,9 @@ Ans- The click() method binds a function to be triggered when a button is clicke
 
 (----------------------------------------------------------------------)
 
+188- How does Gradio determine component interactivity by default?
+
+Ans- Components that are inputs to an event listener are interactive by default; outputs are non-interactive unless specified.
+
+(----------------------------------------------------------------------)
+
