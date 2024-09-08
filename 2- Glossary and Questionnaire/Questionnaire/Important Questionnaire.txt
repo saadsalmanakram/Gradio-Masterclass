@@ -1802,4 +1802,10 @@ Ans- It enables the processing of inputs in batches, allowing for parallel execu
 
 (-----------------------------------------------------------------------)
 
+307- How do you specify the maximum batch size in a Gradio interface?
+
+Ans- By using the max_batch_size argument, which determines the maximum number of requests to be processed in one batch.
+
+(-----------------------------------------------------------------------)
+
 
