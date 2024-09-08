@@ -1108,3 +1108,9 @@ Ans- You can have multiple buttons or events that connect different components t
 
 (----------------------------------------------------------------------)
 
+192- What is a multi-step demo in Gradio?
+
+Ans- A demo where the output of one model or component feeds into the input of another component or model.
+
+(----------------------------------------------------------------------)
+
