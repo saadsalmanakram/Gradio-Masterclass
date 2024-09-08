@@ -1420,3 +1420,31 @@ Ans- Use specific elem_id and elem_classes attributes to target HTML elements, m
 
 (-----------------------------------------------------------------------)
 
+244- What is the significance of using the !important selector in custom CSS for Gradio components?
+
+Ans- The !important selector can override default Gradio styles to ensure your custom styles are applied.
+
+(-----------------------------------------------------------------------)
+
+245- How can you add custom JavaScript code to a Gradio demo?
+
+Ans- You can add custom JavaScript code using the js parameter of the Blocks or Interface constructor, or by including it in the head parameter.
+
+(-----------------------------------------------------------------------)
+
+246- What are the three methods to include JavaScript in a Gradio demo?
+
+Ans- 1- Pass JavaScript code as a string or file path to the js parameter.
+
+     2- Use the head parameter to include JavaScript in the <head> of the HTML document.
+
+     3- Use the js argument in event listeners to run JavaScript functions directly.
+
+(-----------------------------------------------------------------------)
+
+247- How can you show an animated welcome message when a Gradio demo loads?
+
+Ans- Define a JavaScript function to create the animation and pass it to the js parameter of the Blocks constructor.
+
+(-----------------------------------------------------------------------)
+
