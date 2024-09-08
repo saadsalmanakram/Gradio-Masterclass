@@ -1216,3 +1216,8 @@ Ans- gr.Accordion is used to create collapsible sections that can be toggled ope
 
 (----------------------------------------------------------------------)
 
+210- How do you show or hide components dynamically in Gradio?
+
+Ans- Use the visible argument to control the visibility of components and layout elements.
+
+(----------------------------------------------------------------------)
