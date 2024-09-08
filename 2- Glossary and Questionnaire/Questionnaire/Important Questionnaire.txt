@@ -1168,4 +1168,10 @@ Ans- By default, elements in a Row have the same height, but you can set equal_h
 
 (----------------------------------------------------------------------)
 
+202- How do you control the width of elements in a Row in Gradio?
+
+Ans- Use the scale and min_width arguments to control the width and wrapping behavior of elements.
+
+(----------------------------------------------------------------------)
+
 
