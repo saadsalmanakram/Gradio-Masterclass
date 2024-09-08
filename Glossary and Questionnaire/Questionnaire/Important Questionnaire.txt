@@ -1048,6 +1048,12 @@ Ans- An Input-only demo, where the function accepts input but does not provide a
 
 (----------------------------------------------------------------------)
 
+182- How can you handle cases where none of the 4 Gradio demos fit your needs?
+
+Ans- Use the gr.Blocks() approach to create a custom UI flow.
+
+(----------------------------------------------------------------------)
+
 
 
 
