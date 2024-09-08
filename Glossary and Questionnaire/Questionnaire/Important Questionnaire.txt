@@ -1072,5 +1072,11 @@ Ans- An event listener defines the data flow and triggers a function based on us
 
 (----------------------------------------------------------------------)
 
+186- How do components get added to the Blocks app?
+
+Ans- Components are automatically added to the Blocks app when instantiated within the with clause.
+
+(----------------------------------------------------------------------)
+
 
 
