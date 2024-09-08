@@ -1748,3 +1748,9 @@ Ans- It tracks and updates the progress automatically for an iterable.
 
 (-----------------------------------------------------------------------)
 
+298- What does setting gr.Progress(track_tqdm=True) achieve?
+
+Ans- It enables automatic progress tracking for any tqdm.tqdm instance within a function.
+
+(-----------------------------------------------------------------------)
+
