@@ -1868,3 +1868,10 @@ Ans- Use GRADIO_ROOT_PATH to specify the root path, e.g., export GRADIO_ROOT_PAT
 
 (-----------------------------------------------------------------------)
 
+318- What is the effect of setting GRADIO_SHARE to "True"?
+
+Ans- It enables sharing of the Gradio app. Default value is "False".
+
+(-----------------------------------------------------------------------)
+
+
