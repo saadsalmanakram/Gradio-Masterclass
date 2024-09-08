@@ -916,6 +916,12 @@ Ans- The function runs continuously on the streamed data from sources like a web
 
 (----------------------------------------------------------------------)
 
+160- What are reactive interfaces in Gradio?
+
+Ans- Reactive interfaces automatically update based on user input without needing a submit button.
+
+(----------------------------------------------------------------------)
+
 
 
 
