@@ -1372,3 +1372,8 @@ Ans- gr.Timer schedules and triggers events at fixed intervals.
 
 (-----------------------------------------------------------------------)
 
+236- How can you use gr.Timer with a Textbox component in Gradio?
+
+Ans- gr.Timer can be used with Textbox by calling a function on each tick using timer.tick() or by setting the every parameter in the component.
+
+(-----------------------------------------------------------------------)
