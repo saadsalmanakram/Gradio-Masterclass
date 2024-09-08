@@ -808,6 +808,12 @@ Ans- The shared global state may cause data to overlap or mix between different 
 
 (---------------------------------------------------------------------)
 
+142- What is session state in Gradio?
+
+Ans- Session state allows data to persist across multiple interactions within the same user session but is isolated per user.
+
+(---------------------------------------------------------------------)
+
 
 
 
