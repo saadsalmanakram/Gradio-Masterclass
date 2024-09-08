@@ -1,3 +1,5 @@
+# Calculating the Cube of a Number
+
 import gradio as gr
 
 def cube(number):
