@@ -1754,3 +1754,15 @@ Ans- It enables automatic progress tracking for any tqdm.tqdm instance within a 
 
 (-----------------------------------------------------------------------)
 
+299- Can Gradio's Progress bar be customized?
+
+Ans- Yes, you can add descriptions and control the progress values manually or automatically.
+
+(-----------------------------------------------------------------------)
+
+300- How can you track progress over an iterable in Gradio?
+
+Ans- Use the progress.tqdm() method to iterate and track progress.
+
+(-----------------------------------------------------------------------)
+
