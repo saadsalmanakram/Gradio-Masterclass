@@ -1532,3 +1532,9 @@ Ans- To manage heavy processing tasks by queuing incoming requests and preventin
 
 (-----------------------------------------------------------------------)
 
+262- What is concurrency_count in Gradio's queuing system?
+
+Ans- It sets the number of requests that can be processed simultaneously by an event listener.
+
+(-----------------------------------------------------------------------)
+
