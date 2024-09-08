@@ -1336,3 +1336,9 @@ Ans- It ensures that the values of components are preserved between re-renders.
 
 (----------------------------------------------------------------------)
 
+230- How does @gr.render handle dynamic event listeners?
+
+Ans- Event listeners created inside a @gr.render function are reattached with each re-render, replacing previous ones.
+
+(----------------------------------------------------------------------)
+
