@@ -1276,3 +1276,9 @@ Ans- Yes, global state is mutable and can be changed, with the changes reflected
 
 (----------------------------------------------------------------------)
 
+220- What is the role of gr.State() in session state management?
+
+Ans- gr.State() creates a stateful object to store data that persists across multiple submits within the same session.
+
+(----------------------------------------------------------------------)
+
