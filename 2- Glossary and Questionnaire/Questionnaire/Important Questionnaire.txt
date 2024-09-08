@@ -1718,3 +1718,9 @@ Ans- gr.Error() is an exception, which needs to be raised to halt execution.
 
 (-----------------------------------------------------------------------)
 
+293- What is the primary use of gr.Warning() in the provided function?
+
+Ans- To alert the user about non-critical issues, like an empty name, while continuing the process.
+
+(-----------------------------------------------------------------------)
+
