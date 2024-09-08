@@ -1246,3 +1246,9 @@ Ans- gr.State is used to maintain state between function calls within a single u
 
 (----------------------------------------------------------------------)
 
+215- How does global state differ from session state in Gradio Blocks?
+
+Ans- Global state is shared across all users, whereas session state is specific to an individual user's session.
+
+(----------------------------------------------------------------------)
+
