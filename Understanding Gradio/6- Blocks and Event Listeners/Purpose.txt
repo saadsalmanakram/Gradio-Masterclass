@@ -1,0 +1,35 @@
+1. Blocks Class Defines the structure for a Gradio app, grouping components and logic in a flexible way.
+   - Purpose Organizes components and interactions for building complex UIUX flows in Gradio demos.
+
+2. click() event listener Triggers a function when a component, like a button, is clicked.
+   - Purpose Defines interaction by binding user actions (e.g., clicks) to specific functions.
+
+3. change() event listener Executes a function when a component, like a textbox, detects a change (e.g., typing).
+   - Purpose Handles dynamic data changes and triggers functions without requiring button clicks.
+
+4. Event listener decorator Attaches an event listener to a component using a decorator instead of function arguments.
+   - Purpose Simplifies the syntax by embedding the event listener directly into the function definition.
+
+5. submit() event listener Runs a function when an input, like a textbox, is submitted (e.g., pressing Enter).
+   - Purpose Handles form submissions and other input actions conveniently.
+
+6. Function Input List Accepts multiple inputs as a list, where each list item maps to a function argument.
+   - Purpose Allows multiple inputs to be passed to a function sequentially.
+
+7. Function Input Dict Passes multiple inputs as a dictionary, where each key corresponds to an input component.
+   - Purpose Enables more flexibility and clarity when managing many input components.
+
+8. Function Return List Returns multiple output values as a list, corresponding to each output component in order.
+   - Purpose Supports updating multiple components at once by returning ordered values.
+
+9. Function Return Dict Returns output values in a dictionary, mapping components to their updated values.
+   - Purpose Allows selective updating of components based on conditional logic.
+
+10. then() event chaining Runs a secondary event after a primary event has completed execution.
+    - Purpose Enables step-by-step, sequential updating of components in multi-step workflows.
+
+11. success() event listener Triggers a subsequent event only if the primary event runs successfully.
+    - Purpose Ensures that the next event runs only if no errors occurred in the previous event.
+
+12. on() event binding Binds multiple event triggers (e.g., click, submit) to the same function.
+    - Purpose Offers flexible interaction by allowing multiple user actions to trigger a single function.
