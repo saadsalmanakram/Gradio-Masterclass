@@ -1090,3 +1090,9 @@ Ans- Components that are inputs to an event listener are interactive by default;
 
 (----------------------------------------------------------------------)
 
+189- How can you override component interactivity in Gradio?
+
+Ans- By using the interactive=True or interactive=False argument when defining a component.
+
+(----------------------------------------------------------------------)
+
