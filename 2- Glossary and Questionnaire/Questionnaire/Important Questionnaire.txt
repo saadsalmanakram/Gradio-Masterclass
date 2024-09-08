@@ -1520,3 +1520,9 @@ Ans- gr.Examples provides sample input data that users can click to automaticall
 
 (-----------------------------------------------------------------------)
 
+260- What is Gradio's built-in queuing system?
+
+Ans- Gradio automatically creates a queue for each event listener to handle heavy processing tasks efficiently.
+
+(-----------------------------------------------------------------------)
+
