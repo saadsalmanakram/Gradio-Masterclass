@@ -1646,3 +1646,8 @@ Ans- Pass the generator function as the fn parameter in gr.Interface, and Gradio
 
 (-----------------------------------------------------------------------)
 
+281- What are the inputs and outputs used in the gr.Interface example?
+
+Ans- The input is a slider that controls the number of steps, and the output is an image displayed after each step.
+
+(-----------------------------------------------------------------------)
