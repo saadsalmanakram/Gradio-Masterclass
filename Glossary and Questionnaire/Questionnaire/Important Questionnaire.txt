@@ -754,6 +754,12 @@ Ans- The directory will include subfolders for input images and output data, alo
 
 (---------------------------------------------------------------------)
 
+133- What format does the logs.csv file follow when flagging data?
+
+Ans- It lists inputs, operations, outputs, and optionally, the reason for flagging, depending on the interface setup.
+
+(---------------------------------------------------------------------)
+
 
 
 
