@@ -802,6 +802,13 @@ Ans- A variable declared outside a function can be modified and accessed inside 
 
 (---------------------------------------------------------------------)
 
+141- What potential issue can arise with global state in multi-user demos?
+
+Ans- The shared global state may cause data to overlap or mix between different users.
+
+(---------------------------------------------------------------------)
+
+
 
 
 
