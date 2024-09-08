@@ -1784,3 +1784,9 @@ Ans- Gradio automatically tracks and updates progress from any tqdm-based progre
 
 (-----------------------------------------------------------------------)
 
+304- What are batch functions in Gradio?
+
+Ans- Batch functions take in a list of inputs and return a list of predictions, allowing for parallel processing and improved efficiency.
+
+(-----------------------------------------------------------------------)
+
