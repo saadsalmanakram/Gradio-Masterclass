@@ -1114,3 +1114,9 @@ Ans- A demo where the output of one model or component feeds into the input of a
 
 (----------------------------------------------------------------------)
 
+193- What are the two ways to pass multiple inputs to a function in Gradio event listeners?
+
+Ans- Inputs can be passed either as a list of values or as a dictionary keyed by component names.
+
+(----------------------------------------------------------------------)
+
