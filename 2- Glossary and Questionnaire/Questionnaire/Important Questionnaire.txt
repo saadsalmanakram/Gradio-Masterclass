@@ -1922,3 +1922,9 @@ Ans- The delete_cache parameter specifies how often (frequency) and after how lo
 
 (-----------------------------------------------------------------------)
 
+327- How can you use delete_cache to manage cache cleanup effectively?
+
+Ans- By setting delete_cache to a tuple like (86400, 86400), you can configure the cache to clean up every 24 hours, deleting files older than 24 hours.
+
+(-----------------------------------------------------------------------)
+
