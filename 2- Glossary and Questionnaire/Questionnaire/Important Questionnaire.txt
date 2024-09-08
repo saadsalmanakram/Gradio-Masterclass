@@ -1294,3 +1294,10 @@ Ans- Create a gr.State object, use it as an input and output in the event listen
 
 (----------------------------------------------------------------------)
 
+223- Why is cart used as both an input and output in the add_items function?
+
+Ans- It is used as input to get the current state and as output to return the updated state after adding new items.
+
+(----------------------------------------------------------------------)
+
+
