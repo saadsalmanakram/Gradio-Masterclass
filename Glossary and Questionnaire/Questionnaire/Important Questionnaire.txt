@@ -790,6 +790,12 @@ Ans- Global state is shared among all users, while session state is specific to 
 
 (---------------------------------------------------------------------)
 
+139- When should you use global state in Gradio?
+
+Ans- Use global state when you want data, like model loading, to be accessible across all function calls and users.
+
+(---------------------------------------------------------------------)
+
 
 
 
