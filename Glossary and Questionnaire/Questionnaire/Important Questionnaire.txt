@@ -880,6 +880,12 @@ Ans- It automatically submits data and runs the function after recording stops.
 
 (----------------------------------------------------------------------)
 
+154- What is the difference between gr.Audio(streaming=True) and regular gr.Audio() in live mode?
+
+Ans- With streaming=True, the interface continuously sends and processes data during recording, while the regular version waits until recording stops.
+
+(----------------------------------------------------------------------)
+
 
 
 
