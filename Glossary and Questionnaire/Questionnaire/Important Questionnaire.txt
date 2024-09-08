@@ -688,6 +688,13 @@ Ans- The log file should include columns for each input field, with correspondin
 
 (---------------------------------------------------------------------)
 
+122- How can users load examples from previously flagged data?
+
+Ans- Point the system to the directory where flagged data is stored, and the examples can be automatically loaded.
+
+(---------------------------------------------------------------------)
+
+
 
 
 
