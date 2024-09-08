@@ -904,6 +904,12 @@ Ans- It continuously streams the webcam feed to the backend, processing frames i
 
 (----------------------------------------------------------------------)
 
+158- What happens in Gradio when streaming is enabled for the output component like gr.Audio(streaming=True)?
+
+Ans- The audio data is streamed piece-wise, and the output combines them into a single file.
+
+(----------------------------------------------------------------------)
+
 
 
 
