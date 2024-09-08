@@ -1568,3 +1568,9 @@ Ans- When multiple functions require limited resources, like GPUs, and you want 
 
 (-----------------------------------------------------------------------)
 
+268- How can you configure a shared queue for multiple event listeners in Gradio?
+
+Ans- By setting the same concurrency_id for those listeners and specifying the concurrency_count.
+
+(-----------------------------------------------------------------------)
+
