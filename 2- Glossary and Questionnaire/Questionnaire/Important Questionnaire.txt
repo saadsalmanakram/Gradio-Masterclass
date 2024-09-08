@@ -1778,3 +1778,9 @@ Ans- Progress is updated using float values between 0 and 1.
 
 (-----------------------------------------------------------------------)
 
+303- What happens when you set track_tqdm=True in Gradio's Progress instance?
+
+Ans- Gradio automatically tracks and updates progress from any tqdm-based progress bar.
+
+(-----------------------------------------------------------------------)
+
