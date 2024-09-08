@@ -1466,3 +1466,9 @@ Ans- Custom HTML or JavaScript can affect browser compatibility and behavior, so
 
 (-----------------------------------------------------------------------)
 
+251- How do you handle custom JavaScript that needs to interact with Gradio components?
+
+Ans- Use JavaScript functions in event listeners or directly in the js parameter to manipulate or interact with Gradio components based on events or user actions.
+
+(-----------------------------------------------------------------------)
+
