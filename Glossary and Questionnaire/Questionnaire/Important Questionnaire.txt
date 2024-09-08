@@ -736,6 +736,12 @@ Ans- Separate folders will be created to store flagged file data.
 
 (---------------------------------------------------------------------)
 
+130- What information is stored in the CSV file when flagging inputs?
+
+Ans- The CSV logs inputs, operations, outputs, and optionally, the reason for flagging.
+
+(---------------------------------------------------------------------)
+
 
 
 
