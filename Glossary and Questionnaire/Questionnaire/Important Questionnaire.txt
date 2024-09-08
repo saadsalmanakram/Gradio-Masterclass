@@ -1054,6 +1054,12 @@ Ans- Use the gr.Blocks() approach to create a custom UI flow.
 
 (----------------------------------------------------------------------)
 
+183- What is the purpose of the Blocks class in Gradio?
+
+Ans- The Blocks class allows the construction of complex custom demos by managing components and event listeners.
+
+(----------------------------------------------------------------------)
+
 
 
 
