@@ -1730,3 +1730,9 @@ Ans- It allows developers to show customizable progress updates to users during 
 
 (-----------------------------------------------------------------------)
 
+295- How can you create a custom progress bar in Gradio?
+
+Ans- Add a gr.Progress() instance as an argument with a default value in your function.
+
+(-----------------------------------------------------------------------)
+
