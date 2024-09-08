@@ -1940,3 +1940,9 @@ Ans- Blocks.unload() runs cleanup functions immediately upon user disconnection,
 
 (-----------------------------------------------------------------------)
 
+330- What is the role of the delete_directory function in the provided demo code?
+
+Ans- The delete_directory function deletes the user-specific directory created during the session when the user disconnects, ensuring that temporary files are cleaned up.
+
+(------------------------------------------------------------------------)
+
