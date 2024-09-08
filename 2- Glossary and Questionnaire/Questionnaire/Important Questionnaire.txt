@@ -1377,3 +1377,10 @@ Ans- gr.Timer schedules and triggers events at fixed intervals.
 Ans- gr.Timer can be used with Textbox by calling a function on each tick using timer.tick() or by setting the every parameter in the component.
 
 (-----------------------------------------------------------------------)
+
+237- What does the timer.tick() method do?
+
+Ans- It triggers a function periodically based on the timer's interval.
+
+(-----------------------------------------------------------------------)
+
