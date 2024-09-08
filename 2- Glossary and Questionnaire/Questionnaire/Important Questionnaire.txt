@@ -1408,4 +1408,9 @@ Ans- You can use the css parameter with a CSS string to set the background image
 
 (-----------------------------------------------------------------------)
 
+242- What is the recommended way to reference external CSS files in a Gradio demo?
+
+Ans- Prefix the file path with file=, e.g., css=".gradio-container {background: url('file=clouds.jpg')}".
+
+(-----------------------------------------------------------------------)
 
