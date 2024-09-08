@@ -958,6 +958,12 @@ Ans- It allows for instant recalculations and provides a dynamic user experience
 
 (----------------------------------------------------------------------)
 
+167- What would happen if you don’t use live=True in a Gradio interface?
+
+Ans- The interface will only update when the user clicks the submit button.
+
+(----------------------------------------------------------------------)
+
 
 
 
