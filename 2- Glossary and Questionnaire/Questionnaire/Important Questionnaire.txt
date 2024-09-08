@@ -1706,3 +1706,9 @@ Ans- It stops the function and displays the error message.
 
 (-----------------------------------------------------------------------)
 
+291- How does gr.Info() differ from gr.Warning() in terms of functionality?
+
+Ans- Both continue execution, but they differ in message color for informational vs. warning alerts.
+
+(-----------------------------------------------------------------------)
+
