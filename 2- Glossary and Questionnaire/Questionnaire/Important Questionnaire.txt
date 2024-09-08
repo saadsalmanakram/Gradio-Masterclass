@@ -1454,3 +1454,9 @@ Ans- The head parameter is used to inject custom HTML tags, such as scripts or m
 
 (-----------------------------------------------------------------------)
 
+249- How can you use JavaScript to trigger a button click with a keyboard shortcut in a Gradio demo?
+
+Ans- Add a JavaScript script to the head parameter that listens for keyboard events and triggers the button click based on specific key combinations.
+
+(-----------------------------------------------------------------------)
+
