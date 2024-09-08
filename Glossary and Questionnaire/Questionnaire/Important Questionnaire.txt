@@ -844,6 +844,12 @@ Ans- The Interface class supports a single session state variable, but for multi
 
 (----------------------------------------------------------------------)
 
+148- Why might global state be problematic for demos requiring personalized experiences?
+
+Ans- Global state can lead to data being unintentionally shared or mixed between users, compromising the user experience.
+
+(----------------------------------------------------------------------)
+
 
 
 
