@@ -2,6 +2,6 @@ Gradio is an open-source Python library that allows you to quickly create user-f
 
 Key features of Gradio:
 - **Ease of Use**: You can create an interactive demo for your model or function in just a few lines of code.
-- **Real-Time Interaction**: Users can interact with your model directly through the browser, uploading files, entering text, or even speaking into a microphone, depending on the input/output components you define.
+- Real-Time Interaction: Users can interact with your model directly through the browser, uploading files, entering text, or even speaking into a microphone, depending on the input/output components you define.
 - Sharing: Gradio provides a sharable link to your interface, so you can deploy your models or applications for others to test or use, even if they don't have the underlying code.
 
